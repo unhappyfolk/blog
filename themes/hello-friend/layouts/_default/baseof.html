@@ -7,8 +7,9 @@
         {{ . }}{{ end }}{{ else }}{{ .Title }} ::
         {{ $.Site.Title }}{{ with $.Site.Params.Subtitle }} — {{ . }}{{ end }}{{ end }}
       </title>
-    {{ end }}
-    {{ partial "head.html" . }}
+      {{ end }}
+      {{ partial "head.html" . }}
+      {{ partial "schema.html" . }}
   </head>
   <body {{ with $.Site.Params.defaultTheme -}} class="{{ printf "%s-theme" . }}" {{- end }}>
     <div class="container">
