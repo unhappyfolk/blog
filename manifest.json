@@ -1,0 +1,25 @@
+{
+  "short_name": "Unhappy-Folk's Blog",
+  "name": "The Unhappy Folk's Literature",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "32x32 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "android-chrome-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "android-chrome-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "https://blog.unhappyfolk.org",
+  "display": "standalone",
+  "theme_color": "#ceaa37",
+  "background_color": "#292a2d"
+}
