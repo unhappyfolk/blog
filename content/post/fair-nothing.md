@@ -26,5 +26,5 @@ There __is__ more. “One for a one” is not how it’s going to be in every ca
 _“Such there is Night, not Night as ours–Unhappy Folk”_ — J.R.R. Tolkien.
 
 [The Unhappy Folk: unhappyfolk.org](https://unhappyfolk.org) \
-[Telegram: t.me/unhappyfolk](t.me/unhappyfolk) \
+[Telegram: t.me/unhappyfolk](https://t.me/unhappyfolk) \
 Mail: msg@unhappyfolk.org 

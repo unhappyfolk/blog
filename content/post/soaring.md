@@ -33,5 +33,5 @@ _“Verily the most honoured of you in the sight of Allah is (he who is) the mos
 _“Such there is Night, not Night as ours–Unhappy Folk”_ — J.R.R. Tolkien.
 
 [The Unhappy Folk: unhappyfolk.org](https://unhappyfolk.org) \
-[Telegram: t.me/unhappyfolk](t.me/unhappyfolk) \
+[Telegram: t.me/unhappyfolk](https://t.me/unhappyfolk) \
 Mail: msg@unhappyfolk.org 

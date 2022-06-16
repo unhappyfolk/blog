@@ -45,5 +45,5 @@ We did that over and over for God-knows how many millennia, and we’re no diffe
 _“Such there is Night, not Night as ours–Unhappy Folk”_ — J.R.R. Tolkien.
 
 [The Unhappy Folk: unhappyfolk.org](https://unhappyfolk.org) \
-[Telegram: t.me/unhappyfolk](t.me/unhappyfolk) \
+[Telegram: t.me/unhappyfolk](https://t.me/unhappyfolk) \
 Mail: msg@unhappyfolk.org 
