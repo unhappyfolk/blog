@@ -47,4 +47,3 @@ _“Such there is Night, not Night as ours–Unhappy Folk”_ — J.R.R. Tolkien
 [The Unhappy Folk: unhappyfolk.org](https://unhappyfolk.org) \
 [Telegram: t.me/unhappyfolk](t.me/unhappyfolk) \
 Mail: msg@unhappyfolk.org 
-
