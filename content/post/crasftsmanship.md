@@ -1,7 +1,7 @@
 +++
 title = "Craftsmanship"
-# date = "1986-09-17"
-# author = "Elliot"
+date = "2022-05-04"
+author = "mhashim6"
 cover = "img/craftsmanship.jpg"
 CoverCaption = "The Alchemist Discovering Phosphorus — Joseph Wright of Derby"
 +++
@@ -50,8 +50,9 @@ Is work bound by a portion of our time? Is work a necessary evil? What is a life
  – [Prophet Muhammad (ﷺ)](https://sunnah.com/ibnmajah:4239)
 
 ---
-_“Such there is Night, not Night as ours–Unhappy Folk”_ — J.R.R. Tolkien.
+> _Such there is Night, not Night as ours–Unhappy Folk_ \
+> — J.R.R. Tolkien.
 
-[The Unhappy Folk: unhappyfolk.org](https://unhappyfolk.org) \
-[Telegram: t.me/unhappyfolk](https://t.me/unhappyfolk) \
-Mail: msg@unhappyfolk.org 
+> [The Unhappy Folk: unhappyfolk.org](https://unhappyfolk.org) \
+> [Telegram: t.me/unhappyfolk](https://t.me/unhappyfolk) \
+> Mail: msg@unhappyfolk.org 

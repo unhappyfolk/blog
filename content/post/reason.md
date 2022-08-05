@@ -1,7 +1,7 @@
 +++
 title = "To the Roots (Reason)"
 # date = "1986-09-17"
-# author = "Elliot"
+author = "mhashim6"
 cover = "img/reason.jpeg"
 CoverCaption = "The Valdivian Temperate Forests​ – Neil Burnell"
 +++
@@ -42,8 +42,9 @@ Seek the one and only absolute purpose of our existence and live by it. Otherwis
 We did that over and over for God-knows how many millennia, and we’re no different now. And the absolute truth stands still. Applicable every time, and in every place. Immutable, Timeless, and Placeless.
 
 ---
-_“Such there is Night, not Night as ours–Unhappy Folk”_ — J.R.R. Tolkien.
+> _Such there is Night, not Night as ours–Unhappy Folk_ \
+> — J.R.R. Tolkien.
 
-[The Unhappy Folk: unhappyfolk.org](https://unhappyfolk.org) \
-[Telegram: t.me/unhappyfolk](https://t.me/unhappyfolk) \
-Mail: msg@unhappyfolk.org 
+> [The Unhappy Folk: unhappyfolk.org](https://unhappyfolk.org) \
+> [Telegram: t.me/unhappyfolk](https://t.me/unhappyfolk) \
+> Mail: msg@unhappyfolk.org 

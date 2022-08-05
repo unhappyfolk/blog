@@ -1,7 +1,7 @@
 +++
 title = "Belonging"
-# date = "1986-09-17"
-# author = "Elliot"
+date = "2022-06-16"
+author = "mhashim6"
 cover = "img/shipwreck.jpg"
 CoverCaption = "The Shipwreck — Claude Joseph Vernet"
 +++
@@ -31,8 +31,9 @@ I see a tree. Immortal and free. On waters most clear. Always straight, with roo
 > _People should stop boasting about their fathers who have died, while they are but coals of Hell, or they will be more humiliated with Allah than the dung beetle who rolls dung with his nose. Indeed Allah has removed the pride of Jahiliyyah from you, and its boasting about lineage. [Indeed a person is either] a pious believer, or a miserable sinner. And people are all the children of Adam, and Adam was [created] from dust_. — [Prophet Muhammad (ﷺ)](https://sunnah.com/tirmidhi:3955)
 
 ---
-_“Such there is Night, not Night as ours–Unhappy Folk”_ — J.R.R. Tolkien.
+> _Such there is Night, not Night as ours–Unhappy Folk_ \
+> — J.R.R. Tolkien.
 
-[The Unhappy Folk: unhappyfolk.org](https://unhappyfolk.org) \
-[Telegram: t.me/unhappyfolk](https://t.me/unhappyfolk) \
-Mail: msg@unhappyfolk.org 
+> [The Unhappy Folk: unhappyfolk.org](https://unhappyfolk.org) \
+> [Telegram: t.me/unhappyfolk](https://t.me/unhappyfolk) \
+> Mail: msg@unhappyfolk.org 

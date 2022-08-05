@@ -1,7 +1,7 @@
 +++
 title = "Soaring"
-# date = "1986-09-17"
-# author = "Elliot"
+date = "2022-05-20"
+author = "mhashim6"
 cover = "img/soaring.jpg"
 CoverCaption = "Unknown – Unknown"
 +++
@@ -30,8 +30,9 @@ As you’re climbing up, glimpsing over the corpses of those who were arguably l
 _“Verily the most honoured of you in the sight of Allah is (he who is) the most righteous of you. And Allah has full knowledge and is well acquainted (with all things).”_ – [Chapter 49 (The Chambers)](https://quran.com/49/13)
 
 ---
-_“Such there is Night, not Night as ours–Unhappy Folk”_ — J.R.R. Tolkien.
+> _Such there is Night, not Night as ours–Unhappy Folk_ \
+> — J.R.R. Tolkien.
 
-[The Unhappy Folk: unhappyfolk.org](https://unhappyfolk.org) \
-[Telegram: t.me/unhappyfolk](https://t.me/unhappyfolk) \
-Mail: msg@unhappyfolk.org 
+> [The Unhappy Folk: unhappyfolk.org](https://unhappyfolk.org) \
+> [Telegram: t.me/unhappyfolk](https://t.me/unhappyfolk) \
+> Mail: msg@unhappyfolk.org 

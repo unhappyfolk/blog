@@ -1,7 +1,7 @@
 +++
 title = "Even “Nothing” would be fair"
-# date = "1986-09-17"
-# author = "Elliot"
+date = "2022-03-30"
+author = "mhashim6"
 cover = "img/fair-nothing.jpg"
 CoverCaption = "Burgruine mit zwei kreisenden Adlern – Arnold Böcklin"
 +++
@@ -23,8 +23,9 @@ Many consider this level of rigor justice perfect, and one cannot blame them whe
 There __is__ more. “One for a one” is not how it’s going to be in every case. We’re created equal, yet we’re all different. And so are our final verdicts, based on our intentions, our actions, and most importantly: Allah’s Mercy, and Justice.
 
 ---
-_“Such there is Night, not Night as ours–Unhappy Folk”_ — J.R.R. Tolkien.
+> _Such there is Night, not Night as ours–Unhappy Folk_ \
+> — J.R.R. Tolkien.
 
-[The Unhappy Folk: unhappyfolk.org](https://unhappyfolk.org) \
-[Telegram: t.me/unhappyfolk](https://t.me/unhappyfolk) \
-Mail: msg@unhappyfolk.org 
+> [The Unhappy Folk: unhappyfolk.org](https://unhappyfolk.org) \
+> [Telegram: t.me/unhappyfolk](https://t.me/unhappyfolk) \
+> Mail: msg@unhappyfolk.org 
