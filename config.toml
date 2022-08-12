@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://blog.unhappyfolk.org"
 languageCode = "en-us"
 theme = "hello-friend"
 paginate = 15
