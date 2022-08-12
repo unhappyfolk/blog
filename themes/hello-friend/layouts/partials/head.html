@@ -24,9 +24,9 @@
 <link
   rel="apple-touch-icon-precomposed"
   sizes="144x144"
-  href="{{ "img/apple-touch-icon-144-precomposed.png" | absURL }}"
+  href="{{ "apple-touch-icon-144.png" | absURL }}"
 />
-<link rel="shortcut icon" href="{{ "img/favicon.png" | absURL }}" />
+<link rel="shortcut icon" href="{{ "favicon.png" | absURL }}" />
 
 <!-- Fonts -->
 <link href="{{ "assets/fonts/Inter-Italic.woff2" | absURL }}" rel="preload" type="font/woff2" as="font" crossorigin="">
@@ -46,6 +46,8 @@
 {{ range .AlternativeOutputFormats -}}
   {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .RelPermalink $.Site.Title | safeHTML }}
 {{ end -}}
+
+<link rel="alternate" type="application/rss+xml" href="{{.Site.BaseURL }}/index.xml" title="{{ .Site.Title }}">
 
 <!-- head custom -->
 {{- partial "extended_head.html" . }}
