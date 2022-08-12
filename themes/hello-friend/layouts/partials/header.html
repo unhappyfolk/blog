@@ -1,8 +1,9 @@
 <header class="header">
   <link rel="alternate"
       type="application/rss+xml"
-      href="{{.Site.BaseURL }}/index.xml"
-      title="{{ .Site.Title }}">
+      href="{{ $.Site.BaseURL }}/index.xml"
+      title="{{ $.Site.Title }}">
+
   <span class="header__inner">
     {{ partial "logo.html" . }}
     <span class="header__right">

@@ -47,7 +47,7 @@
   {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .RelPermalink $.Site.Title | safeHTML }}
 {{ end -}}
 
-<link rel="alternate" type="application/rss+xml" href="{{.Site.BaseURL }}/index.xml" title="{{ .Site.Title }}">
+<link rel="alternate" type="application/rss+xml" href="{{ $.Site.BaseURL }}/index.xml" title="{{ $.Site.Title }}">
 
 <!-- head custom -->
 {{- partial "extended_head.html" . }}
