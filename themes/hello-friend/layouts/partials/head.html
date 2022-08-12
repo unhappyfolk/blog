@@ -42,12 +42,14 @@
 <!-- OG data -->
 {{ template "_internal/opengraph.html" . }}
 
-<!-- RSS | JSON -->
-{{ range .AlternativeOutputFormats -}}
-  {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .RelPermalink $.Site.Title | safeHTML }}
-{{ end -}}
-
-<link rel="alternate" type="application/rss+xml" href="{{ $.Site.BaseURL }}/index.xml" title="{{ $.Site.Title }}">
+{{ with .OutputFormats.Get "RSS" }}
+  <link
+    href="{{ $.Site.BaseURL }}/index.xml"
+    rel="alternate"
+    type="application/rss+xml"
+    title="{{ $.Site.Title }}"
+  />
+{{ end }}
 
 <!-- head custom -->
 {{- partial "extended_head.html" . }}
