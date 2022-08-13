@@ -3,7 +3,7 @@ title = "Even “Nothing” would be fair"
 date = "2022-03-30"
 author = "mhashim6"
 cover = "img/fair-nothing.jpg"
-CoverCaption = "Burgruine mit zwei kreisenden Adlern – Arnold Böcklin"
+CoverCaption = "Burgruine mit zwei kreisenden Adlern — Arnold Böcklin"
 +++
 
 Justice can be relative; women were burned for witchcraft, and that was perceived by a majority of people as absolute justice. These majority later became a minority, and a new majority introduced a new absolute justice. This happened, is happening, and will continue to the world’s end. Because justice is nothing but pleasing a group of people based on flaky, and fragile rules made by the very same group of people. And these rules change as the group of people changes.
@@ -18,14 +18,15 @@ Rigor and merciless justice are also sought and appreciated by many; The sinful 
 
 Many consider this level of rigor justice perfect, and one cannot blame them when comparing this to Roman mythology’s _“justice”_. People are willing to accept this as a true justice that will make them feel safe. What if there is more to divine justice?
 
-> _Allah, Blessed and Most High, has said - and His saying is the Truth: 'When My slave considers doing something good then write it as one good for him. If he acts upon it then write ten of the same for him. And when he considers doing something evil, then do not write it. If he acts upon it, then write it. If he leaves it" - and perhaps he said: "if he does not act upon it, then write a good reward for him.' Then he [the Prophet (ﷺ)] recited: Whoever comes with a good, then he shall have ten the like thereof (6:160)_ – [Prophet Muhammad (ﷺ)](https://sunnah.com/tirmidhi:3073). 
+> _Allah, Blessed and Most High, has said - and His saying is the Truth: 'When My slave considers doing something good then write it as one good for him. If he acts upon it then write ten of the same for him. And when he considers doing something evil, then do not write it. If he acts upon it, then write it. If he leaves it" - and perhaps he said: "if he does not act upon it, then write a good reward for him.' Then he [the Prophet (ﷺ)] recited: Whoever comes with a good, then he shall have ten the like thereof (6:160)_ \
+— __[Prophet Muhammad (ﷺ)](https://sunnah.com/tirmidhi:3073).__
 
 There __is__ more. “One for a one” is not how it’s going to be in every case. We’re created equal, yet we’re all different. And so are our final verdicts, based on our intentions, our actions, and most importantly: Allah’s Mercy, and Justice.
 
 ---
-> _Such there is Night, not Night as ours–Unhappy Folk_ \
-> — J.R.R. Tolkien.
+> _Such there is Night, not Night as ours—Unhappy Folk_ \
+> — __J.R.R. Tolkien.__
 
-> [The Unhappy Folk: unhappyfolk.org](https://unhappyfolk.org) \
-> [Telegram: t.me/unhappyfolk](https://t.me/unhappyfolk) \
-> Mail: msg@unhappyfolk.org 
+> __The Unhappy Folk:__ [unhappyfolk.org](https://unhappyfolk.org) \
+> __Telegram:__ [t.me/unhappyfolk](https://t.me/unhappyfolk) \
+> __Mail:__ msg@unhappyfolk.org 

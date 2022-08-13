@@ -26,14 +26,16 @@ I see a man, killing his peer. Never before, to even kill a deer. But in a diffe
 
 I see a tree. Immortal and free. On waters most clear. Always straight, with roots of steel. No matter where the fools steer. Be it tomorrow or yesteryear. Belonging to nothing, but to a truth longing as far as can see.
 
-> _Be in the world as though you were a stranger or a passerby_ — [Prophet Muhammad (ﷺ)](https://sunnah.com/mishkat:1604)
+> _Be in the world as though you were a stranger or a passerby_ \
+> — __[Prophet Muhammad (ﷺ)](https://sunnah.com/mishkat:1604)__
 
-> _People should stop boasting about their fathers who have died, while they are but coals of Hell, or they will be more humiliated with Allah than the dung beetle who rolls dung with his nose. Indeed Allah has removed the pride of Jahiliyyah from you, and its boasting about lineage. [Indeed a person is either] a pious believer, or a miserable sinner. And people are all the children of Adam, and Adam was [created] from dust_. — [Prophet Muhammad (ﷺ)](https://sunnah.com/tirmidhi:3955)
+> _People should stop boasting about their fathers who have died, while they are but coals of Hell, or they will be more humiliated with Allah than the dung beetle who rolls dung with his nose. Indeed Allah has removed the pride of Jahiliyyah from you, and its boasting about lineage. [Indeed a person is either] a pious believer, or a miserable sinner. And people are all the children of Adam, and Adam was [created] from dust_. \
+> — __[Prophet Muhammad (ﷺ)](https://sunnah.com/tirmidhi:3955)__
 
 ---
-> _Such there is Night, not Night as ours–Unhappy Folk_ \
-> — J.R.R. Tolkien.
+> _Such there is Night, not Night as ours—Unhappy Folk_ \
+> — __J.R.R. Tolkien.__
 
-> [The Unhappy Folk: unhappyfolk.org](https://unhappyfolk.org) \
-> [Telegram: t.me/unhappyfolk](https://t.me/unhappyfolk) \
-> Mail: msg@unhappyfolk.org 
+> __The Unhappy Folk:__ [unhappyfolk.org](https://unhappyfolk.org) \
+> __Telegram:__ [t.me/unhappyfolk](https://t.me/unhappyfolk) \
+> __Mail:__ msg@unhappyfolk.org 

@@ -1,9 +1,9 @@
 +++
 title = "To the Roots (Reason)"
-# date = "1986-09-17"
+date = "2022-03-01"
 author = "mhashim6"
 cover = "img/reason.jpeg"
-CoverCaption = "The Valdivian Temperate Forests​ – Neil Burnell"
+CoverCaption = "The Valdivian Temperate Forests​ — Neil Burnell"
 +++
 
 Everyone has their own reasons not to put an end to their lives. These reasons often are why many people actually consider putting an end to their life! Ironic and objectively sad. A marksman that mistakes a shadow for a prey sleeps his evenings with neither arrows nor a supper.
@@ -12,7 +12,7 @@ Everything that lives refrains from pain. We live our whole lives trying to keep
 
 Divine laws and man-made rules exist to govern us while we try to maintain and regulate our “balance”. “Wrong” rules lead to an unbalanced ratio. Euphoria can’t be sought. No man can be forever “happy”, at least without chemicals. Yet we keep shooting at the moving shadow; the façade slowly becomes the truth. A false truth that will require new rules and laws, leading to an endless cycle of degradation that completely mutilates the original, absolute truth that once shined in clear light.
 
-Hedonists indulge their every whim to tamper with their “ratio”, not so different from substance addiction–an overwhelming joy that masks every pain there is. Needless to say, their pursuit is full of pain, again, ironic. “It doesn’t solve the thing to dress it in a pretty gown”. Then why bother? If there’s a lever that can completely stop that gauge of our struggle, why don’t we use it? We’ll put an end to both our joy and our agony. It’s our self-created façades that encapsulated us in rules and conventions that shaped our lives from the first day to the last. Living for a worthless “purpose”.
+Hedonists indulge their every whim to tamper with their “ratio”, not so different from substance addiction—an overwhelming joy that masks every pain there is. Needless to say, their pursuit is full of pain, again, ironic. “It doesn’t solve the thing to dress it in a pretty gown”. Then why bother? If there’s a lever that can completely stop that gauge of our struggle, why don’t we use it? We’ll put an end to both our joy and our agony. It’s our self-created façades that encapsulated us in rules and conventions that shaped our lives from the first day to the last. Living for a worthless “purpose”.
 
 If we destroy these stacked façades, we’ll find the deep, buried truth; absolute balance. Much like a tree, and its roots. If you find nothing beyond your misleading façades. You have every right to search for a “purpose”, but will you drown again in the ocean of abstraction and forget your absolution?
 
@@ -35,16 +35,16 @@ Why bother? It’s close to an imaginary friend. A hunter chasing a winged unico
 > _Is it anything more than what we choose to call it?_\
 > _Sweet words make it appealing_ \
 > _But it only serves to mask the smell of what we bury_. \
-— Marko Saaresto
+— __Marko Saaresto__
 
 Seek the one and only absolute purpose of our existence and live by it. Otherwise, our existence is in vain.
 
 We did that over and over for God-knows how many millennia, and we’re no different now. And the absolute truth stands still. Applicable every time, and in every place. Immutable, Timeless, and Placeless.
 
 ---
-> _Such there is Night, not Night as ours–Unhappy Folk_ \
-> — J.R.R. Tolkien.
+> _Such there is Night, not Night as ours—Unhappy Folk_ \
+> — __J.R.R. Tolkien.__
 
-> [The Unhappy Folk: unhappyfolk.org](https://unhappyfolk.org) \
-> [Telegram: t.me/unhappyfolk](https://t.me/unhappyfolk) \
-> Mail: msg@unhappyfolk.org 
+> __The Unhappy Folk:__ [unhappyfolk.org](https://unhappyfolk.org) \
+> __Telegram:__ [t.me/unhappyfolk](https://t.me/unhappyfolk) \
+> __Mail:__ msg@unhappyfolk.org 
