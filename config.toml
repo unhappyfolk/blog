@@ -52,12 +52,17 @@ disableRSS = false
     #     name = "Showcase"
     #     url = "/showcase"
       [[languages.en.menu.main]]
+        identifier = "follow"
+        name = "Follow Us"
+        weight = 1
+        url = "https://t.me/unhappyfolk/"
+      [[languages.en.menu.main]]
         identifier = "website"
         name = "Website"
-        weight = 1
+        weight = 2
         url = "https://unhappyfolk.org/"
       [[languages.en.menu.main]]
         identifier = "rss"
         name = "RSS"
-        weight = 2
+        weight = 3
         url = "https://blog.unhappyfolk.org/index.xml"
