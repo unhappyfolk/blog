@@ -19,7 +19,7 @@
     }
   ],
   "start_url": "https://blog.unhappyfolk.org",
-  "display": "standalone",
-  "theme_color": "#ceaa37",
-  "background_color": "#292a2d"
+  "theme_color": "#00000",
+  "background_color": "#00000",
+  "display": "standalone"
 }

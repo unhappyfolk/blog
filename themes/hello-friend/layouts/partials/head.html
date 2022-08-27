@@ -22,11 +22,41 @@
 
 <!-- Icons -->
 <link
-  rel="apple-touch-icon-precomposed"
-  sizes="144x144"
-  href="{{ "apple-touch-icon-144.png" | absURL }}"
+  rel="apple-touch-icon"
+  sizes="180x180"
+  href="{{ "apple-touch-icon.png" | absURL }}"
 />
-<link rel="shortcut icon" href="{{ "favicon.png" | absURL }}" />
+
+<link
+  rel="mask-icon"
+  href="{{ "safari-pinned-tab.svg" | absURL }}"
+  color="#ceaa37"
+/>
+
+<link
+  rel="icon"
+  sizes="144x144"
+  href="{{ "favicon.svg" | absURL }}"
+  type="image/svg+xml" 
+/>
+
+<link
+  rel="icon"
+  type="image/png"
+  sizes="32x32"
+  href="{{ "favicon-32x32.png" | absURL }}"
+  type="image/svg+xml" 
+/>
+
+<link
+  rel="icon"
+  type="image/png"
+  sizes="16x16"
+  href="{{ "favicon-16x16.png" | absURL }}"
+  type="image/svg+xml" 
+/>
+
+<link rel="manifest" href="{{"manifest.json" | absURL}}" />
 
 <!-- Fonts -->
 <link href="{{ "assets/fonts/Inter-Italic.woff2" | absURL }}" rel="preload" type="font/woff2" as="font" crossorigin="">
