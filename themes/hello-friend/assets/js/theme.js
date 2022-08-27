@@ -15,10 +15,14 @@ themeToggle.addEventListener("click", () => {
   if (themeUndefined) {
     if (isOSDark) {
       document.body.classList.add("light-theme");
+      document.querySelector("meta[name='theme-color']").setAttribute("content", "#EDE3D9");
     } else {
       document.body.classList.add("dark-theme");
+      document.querySelector("meta[name='theme-color']").setAttribute("content", "#292a2d");
     }
   } else {
+    const theme = document.body.classList.contains("dark-theme") ? "#EDE3D9" : "#292a2d";
+    document.querySelector("meta[name='theme-color']").setAttribute("content", theme);
     document.body.classList.toggle("light-theme");
     document.body.classList.toggle("dark-theme");
   }
