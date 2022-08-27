@@ -8,7 +8,7 @@ disableRSS = false
   # dir name of your blog content (default is `content/posts`)
   contentTypeName = "post"
   # "light" or "dark"
-  defaultTheme = "light"
+  defaultTheme = "dark"
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 4
   # Enable to show reading time in minutes for posts
