@@ -4,6 +4,7 @@ date = "2022-03-16"
 author = "mhashim6"
 cover = "img/meek.jpg"
 CoverCaption = "The Mausoleum — Hubert Robert"
+images = ['img/meek.jpg']
 +++
 
 Gods are everywhere and exist in various forms, Their definition is no longer what We used to perceive: __an__ omnipotent, most powerful higher form. Now we have human _“gods”_. Some believe in multiple gods. Yet all these beliefs are for the same reason: Longing for the absolute truth.

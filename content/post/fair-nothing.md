@@ -4,6 +4,7 @@ date = "2022-03-30"
 author = "mhashim6"
 cover = "img/fair-nothing.jpg"
 CoverCaption = "Burgruine mit zwei kreisenden Adlern — Arnold Böcklin"
+images = ['img/fair-nothing.jpg']
 +++
 
 Justice can be relative; women were burned for witchcraft, and that was perceived by a majority of people as absolute justice. These majority later became a minority, and a new majority introduced a new absolute justice. This happened, is happening, and will continue to the world’s end. Because justice is nothing but pleasing a group of people based on flaky, and fragile rules made by the very same group of people. And these rules change as the group of people changes.

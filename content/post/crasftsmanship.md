@@ -4,6 +4,7 @@ date = "2022-05-04"
 author = "mhashim6"
 cover = "img/craftsmanship.jpg"
 CoverCaption = "The Alchemist Discovering Phosphorus — Joseph Wright of Derby"
+images = ['img/craftsmanship.jpg']
 +++
 
 The value of one is often defined by what they do. The output of one's work is not necessarily what makes it worthy. It is -like many other things- relative; some people consider a certain act heroic, while another group of people would deem it brute and evil. Who has the final word?

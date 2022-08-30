@@ -4,6 +4,7 @@ date = "2022-06-16"
 author = "mhashim6"
 cover = "img/shipwreck.jpg"
 CoverCaption = "The Shipwreck — Claude Joseph Vernet"
+images = ['img/shipwreck.jpg']
 +++
 
 I see an immortal tree. Breathing throughout the ages. Not counting days. Observing changes. Recording phrases of peoples’ brief phases. In different times and places.

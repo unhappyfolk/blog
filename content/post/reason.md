@@ -4,6 +4,7 @@ date = "2022-03-01"
 author = "mhashim6"
 cover = "img/reason.jpeg"
 CoverCaption = "The Valdivian Temperate Forests​ — Neil Burnell"
+images = ['img/reason.jpeg' , 'img/tree.jpg']
 +++
 
 Everyone has their own reasons not to put an end to their lives. These reasons often are why many people actually consider putting an end to their life! Ironic and objectively sad. A marksman that mistakes a shadow for a prey sleeps his evenings with neither arrows nor a supper.

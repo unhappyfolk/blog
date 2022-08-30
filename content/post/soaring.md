@@ -4,6 +4,7 @@ date = "2022-05-20"
 author = "mhashim6"
 cover = "img/soaring.jpg"
 CoverCaption = "Unknown – Unknown"
+images = ['img/soaring.jpg']
 +++
 > _Whatever the pressure_ \
 > _However your pleasure holds you_ \

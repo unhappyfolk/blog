@@ -14,6 +14,7 @@ disableRSS = false
   # Enable to show reading time in minutes for posts
   showReadingTime = false
   author = "mhashim6"
+  images = ['img/preview.png']
   header = "The Unhappy Folk's Literature"
   logo = "img/logo.svg"
 
