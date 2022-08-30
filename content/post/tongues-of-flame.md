@@ -2,9 +2,9 @@
 title = "Tongues of Flame"
 date = "2022-08-05"
 author = "mhashim6"
-cover = "img/tongues-of-flame.png"
+cover = "img/tongues-of-flame.webp"
 CoverCaption = "Tongues of Flame — mhashim6"
-images = ['img/tongues-of-flame.jpg']
+images = ['img/tongues-of-flame.webp']
 +++
 
 > _Where there are so many, all speech becomes a debate without end. But two together may perhaps find wisdom._ \
