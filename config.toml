@@ -1,4 +1,4 @@
-baseurl = "https://unhappyfolk.org"
+baseurl = "https://blog.unhappyfolk.org"
 languageCode = "en-us"
 theme = "hello-friend"
 paginate = 15
@@ -61,9 +61,9 @@ disableRSS = false
         identifier = "website"
         name = "Website"
         weight = 2
-        url = "https://unhappyfolk.github.io"
+        url = "https://unhappyfolk.org/"
       [[languages.en.menu.main]]
         identifier = "rss"
         name = "RSS"
         weight = 3
-        url = "https://unhappyfolk.org/index.xml"
+        url = "https://blog.unhappyfolk.org/index.xml"
