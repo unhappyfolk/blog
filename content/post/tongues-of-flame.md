@@ -37,5 +37,5 @@ We're consumed by our seemingly friendly conversations making jests and throwing
 > — __J.R.R. Tolkien.__
 
 > __The Unhappy Folk:__ [unhappyfolk.org](https://unhappyfolk.org) \
-> __Telegram:__ [t.me/unhappyfolk](https://t.me/unhappyfolk) \
+> __Telegram:__ [unhappyfolk.t.me](https://unhappyfolk.t.me) \
 > __Mail:__ msg@unhappyfolk.org 
