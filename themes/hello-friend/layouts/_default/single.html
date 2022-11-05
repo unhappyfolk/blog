@@ -2,9 +2,14 @@
   {{ $isntDefault := not (or (eq (trim $.Site.Params.contentTypeName " ") "posts") (eq (trim $.Site.Params.contentTypeName " ") "")) }}
   {{ $contentTypeName := cond $isntDefault (string $.Site.Params.contentTypeName) "posts" }}
 
+  {{ $textDir:="left"}}
+  {{ if eq .Site.Language.LanguageDirection "rtl" }}
+    {{ $textDir = "right"}}
+  {{ end }}
+
   <div class="post">
-    <h1 class="post-title">{{ .Title | markdownify }}</h1>
-    <div class="post-meta">
+    <h1 class="post-title"  style="text-align: {{ $textDir }};">{{ .Title | markdownify }}</h1>
+    <div class="post-meta"  style="text-align: {{ $textDir }};">
       {{ if .Date | default nil }}
         <span class="post-date">
           {{ .Date.Format ($.Site.Params.DateFormatSingle | default "2006-01-02") }}
@@ -29,7 +34,9 @@
         >
       {{ end }}
     </div>
+    <div  style="text-align: {{ $textDir }};">
       {{ partial "languages.html" . }}
+    </div>
 
     {{ if .Params.tags }}
       <span class="post-tags">
@@ -50,9 +57,11 @@
         <aside class="table-of-contents">{{ .TableOfContents }}</aside>
         {{ end }}
       {{ end }}
-      
-      {{ .Content }}
 
+      <div style="text-align: {{ $textDir }};">
+        {{ .Content }}
+      </div>
+      
       {{/*  Signature  */}}
       <div  style="text-align: left;">
         <hr>
