@@ -42,10 +42,3 @@ Seek the one and only absolute purpose of our existence and live by it. Otherwis
 
 We did that over and over for God-knows how many millennia, and we’re no different now. And the absolute truth stands still. Applicable every time, and in every place. Immutable, Timeless, and Placeless.
 
----
-> _Such there is Night, not Night as ours—Unhappy Folk_ \
-> — __J.R.R. Tolkien.__
-
-> __The Unhappy Folk:__ [unhappyfolk.org](https://unhappyfolk.org) \
-> __Telegram:__ [unhappyfolk.t.me](https://unhappyfolk.t.me) \
-> __Mail:__ msg@unhappyfolk.org 

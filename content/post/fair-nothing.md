@@ -24,10 +24,3 @@ Many consider this level of rigor justice perfect, and one cannot blame them whe
 
 There __is__ more. “One for a one” is not how it’s going to be in every case. We’re created equal, yet we’re all different. And so are our final verdicts, based on our intentions, our actions, and most importantly: Allah’s Mercy, and Justice.
 
----
-> _Such there is Night, not Night as ours—Unhappy Folk_ \
-> — __J.R.R. Tolkien.__
-
-> __The Unhappy Folk:__ [unhappyfolk.org](https://unhappyfolk.org) \
-> __Telegram:__ [unhappyfolk.t.me](https://unhappyfolk.t.me) \
-> __Mail:__ msg@unhappyfolk.org 

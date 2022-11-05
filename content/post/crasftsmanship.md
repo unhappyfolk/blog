@@ -50,10 +50,3 @@ Is work bound by a portion of our time? Is work a necessary evil? What is a life
 > _O Hanzalah, there is a time for this [work | worship] and a time for that [worldly affairs]_ \
  — __[Prophet Muhammad (ﷺ)](https://sunnah.com/ibnmajah:4239)__
 
----
-> _Such there is Night, not Night as ours—Unhappy Folk_ \
-> — __J.R.R. Tolkien.__
-
-> __The Unhappy Folk:__ [unhappyfolk.org](https://unhappyfolk.org) \
-> __Telegram:__ [unhappyfolk.t.me](https://unhappyfolk.t.me) \
-> __Mail:__ msg@unhappyfolk.org 

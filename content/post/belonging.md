@@ -32,11 +32,3 @@ I see a tree. Immortal and free. On waters most clear. Always straight, with roo
 
 > _People should stop boasting about their fathers who have died, while they are but coals of Hell, or they will be more humiliated with Allah than the dung beetle who rolls dung with his nose. Indeed Allah has removed the pride of Jahiliyyah from you, and its boasting about lineage. [Indeed a person is either] a pious believer, or a miserable sinner. And people are all the children of Adam, and Adam was [created] from dust_. \
 > — __[Prophet Muhammad (ﷺ)](https://sunnah.com/tirmidhi:3955)__
-
----
-> _Such there is Night, not Night as ours—Unhappy Folk_ \
-> — __J.R.R. Tolkien.__
-
-> __The Unhappy Folk:__ [unhappyfolk.org](https://unhappyfolk.org) \
-> __Telegram:__ [unhappyfolk.t.me](https://unhappyfolk.t.me) \
-> __Mail:__ msg@unhappyfolk.org 

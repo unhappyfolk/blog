@@ -40,10 +40,3 @@ We may choose to resent this truth, We may choose not to accept it as a truth, b
 
 Without __The__ God, everything is relative, everything can be swayed and manipulated. Our coincidental existence is in vain. Our free will is limitless, if governed by no higher (super-human) rules, is uncontrollable and completely justifiable. Such purposeless, chaotic, full-of-struggle life is worthless. I shall then use my free will to put an end to my perception of this boring, doomed, fruitless, Night; Such is our Night—The Unhappy Folk.
 
----
-> _Such there is Night, not Night as ours—Unhappy Folk_ \
-> — __J.R.R. Tolkien.__
-
-> __The Unhappy Folk:__ [unhappyfolk.org](https://unhappyfolk.org) \
-> __Telegram:__ [unhappyfolk.t.me](https://unhappyfolk.t.me) \
-> __Mail:__ msg@unhappyfolk.org 

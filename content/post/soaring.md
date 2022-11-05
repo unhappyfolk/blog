@@ -5,6 +5,7 @@ author = "mhashim6"
 cover = "img/soaring.jpg"
 CoverCaption = "Unknown – Unknown"
 images = ['img/soaring.jpg']
+translationKey = "soaring"
 +++
 > _Whatever the pressure_ \
 > _However your pleasure holds you_ \
@@ -31,10 +32,3 @@ As you’re climbing up, glimpsing over the corpses of those who were arguably l
 > _“Verily the most honoured of you in the sight of Allah is (he who is) the most righteous of you. And Allah has full knowledge and is well acquainted (with all things).”_ \
 > – __[Chapter 49 (The Chambers)](https://quran.com/49/13)__
 
----
-> _Such there is Night, not Night as ours—Unhappy Folk_ \
-> — __J.R.R. Tolkien.__
-
-> __The Unhappy Folk:__ [unhappyfolk.org](https://unhappyfolk.org) \
-> __Telegram:__ [unhappyfolk.t.me](https://unhappyfolk.t.me) \
-> __Mail:__ msg@unhappyfolk.org 

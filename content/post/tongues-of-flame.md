@@ -32,10 +32,3 @@ We're consumed by our seemingly friendly conversations making jests and throwing
 > _I said: ‘O Prophet of Allah, will we be brought to account for what we say?’ He [Prophet Muhammad (ﷺ)] said: ‘May your mother not find you, O Mu’adh! __Are people thrown onto their faces in Hell for anything other than the harvest of their tongues?__’_ \
 > — __[Mu’adh son of Jabal](https://sunnah.com/ibnmajah:3973)__
 
----
-> _Such there is Night, not Night as ours—Unhappy Folk_ \
-> — __J.R.R. Tolkien.__
-
-> __The Unhappy Folk:__ [unhappyfolk.org](https://unhappyfolk.org) \
-> __Telegram:__ [unhappyfolk.t.me](https://unhappyfolk.t.me) \
-> __Mail:__ msg@unhappyfolk.org 

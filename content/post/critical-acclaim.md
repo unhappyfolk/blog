@@ -19,10 +19,3 @@ _You can’t pour from an empty jug_, often said. And those who know the jug is 
 
 Lives long-lived for a critical acclaim, A good-for-nothing quest of disdain. Addictive antidote to pain. Where nothing left to claim but a soul hiding in shame.
 
----
-> _Such there is Night, not Night as ours—Unhappy Folk_ \
-> — __J.R.R. Tolkien.__
-
-> __The Unhappy Folk:__ [unhappyfolk.org](https://unhappyfolk.org) \
-> __Telegram:__ [unhappyfolk.t.me](https://unhappyfolk.t.me) \
-> __Mail:__ msg@unhappyfolk.org 

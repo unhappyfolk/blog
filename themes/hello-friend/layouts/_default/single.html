@@ -49,7 +49,21 @@
         <aside class="table-of-contents">{{ .TableOfContents }}</aside>
         {{ end }}
       {{ end }}
-      {{ .Content }}
+      {{/*  Signature  */}}
+      <div  style="text-align: left;">
+        <hr>
+        <blockquote>
+          <p><em>Such there is Night، not Night as ours—Unhappy Folk</em> <br>
+          — <strong>J.R.R. Tolkien.</strong></p>
+        </blockquote>
+        <blockquote>
+          <p><strong>The Unhappy Folk:</strong> <a href="https://unhappyfolk.org">unhappyfolk.org</a> <br>
+          <strong>Telegram:</strong> <a href="https://unhappyfolk.t.me">unhappyfolk.t.me</a> <br>
+          <strong>Mail:</strong> <a href="mailto:msg@unhappyfolk.org">msg@unhappyfolk.org</a></p>
+        </blockquote>
+        {{/*  Signature End */}}
+      </div>
+
     </div>
     {{ if eq .Type $.Site.Params.contentTypeName }}
       {{ if or .NextInSection .PrevInSection }}
