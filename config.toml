@@ -56,9 +56,14 @@ disableRSS = false
     #     name = "Showcase"
     #     url = "/showcase"
       [[languages.en.menu.main]]
+        identifier = "translation"
+        name = "عربي"
+        url = "/ar"
+        weight = 1
+      [[languages.en.menu.main]]
         identifier = "follow"
         name = "Follow Us"
-        weight = 1
+        weight = 2
         url = "https://t.me/unhappyfolk/"
       # [[languages.en.menu.main]]
       #   identifier = "website"
@@ -80,6 +85,11 @@ disableRSS = false
     olderPosts = "مقالات أقدم"
   
     [languages.ar.menu]
+      [[languages.ar.menu.main]]
+        identifier = "translation"
+        name = "English"
+        url = "/"
+        weight = 1
       [[languages.ar.menu.main]]
         identifier = "follow"
         name = "تابعنا"
