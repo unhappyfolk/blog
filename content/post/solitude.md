@@ -31,11 +31,3 @@ Oneliness is a natural state we can _(foolishly)_ perceive negatively. Even thou
 
 > _Do not be people without a will of your own, saying: ‘We shall do good only when people do so, and we shall do ill only when people do so,’ but accustom yourselves to do good if people do so, and do not behave unjustly if they do ill._
 > — [ **Prophet Muhammad (ﷺ)**](https://sunnah.com/tirmidhi:2007)
-
----
-> _Such there is Night, not Night as ours—Unhappy Folk_ \
-> — __J.R.R. Tolkien.__
-
-> __The Unhappy Folk:__ [unhappyfolk.org](https://unhappyfolk.org) \
-> __Telegram:__ [unhappyfolk.t.me](https://unhappyfolk.t.me) \
-> __Mail:__ msg@unhappyfolk.org
