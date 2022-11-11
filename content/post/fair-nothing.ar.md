@@ -1,5 +1,5 @@
 +++
-title = "أبِعدله أَم برحمته ؟"
+title = "أبِعدله أَم برحمته؟"
 date = "2022-03-30"
 author = "mhashim6"
 cover = "img/fair-nothing.jpg"
