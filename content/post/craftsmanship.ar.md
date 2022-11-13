@@ -1,10 +1,10 @@
 +++
 title = "من صُنعك أنت"
-date = "2022-03-30"
+date = "2022-05-04"
 author = "يوسف خالد"
-cover = "img/fair-nothing.jpg"
-CoverCaption = "Burgruine mit zwei kreisenden Adlern — Arnold Böcklin"
-images = ['img/fair-nothing.jpg']
+cover = "img/craftsmanship.jpg"
+CoverCaption = "The Alchemist Discovering Phosphorus — Joseph Wright of Derby"
+images = ['img/craftsmanship.jpg']
 +++
 
 قيمة المرء منّا مقترنة بما يفعله. ولكن قيمة العمل لا تكمن في النتيجة النهائية له. فالامر ككثير من الاشياء 
