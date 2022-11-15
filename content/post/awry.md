@@ -19,5 +19,5 @@ One soul. One night. The crag shattered. His grip, light. _“My time to go, alr
 
 More dead. More lies. Unhappy folk. Tormented cries. _“We pray to die!”_ — Said the old. Unhappy folk. Now realised. Time, wasted. Death is nigh. The relief we couldn’t buy. For in the trenches we are awry.
 
-> Lo! Indeed the world is cursed. What is in it is cursed, except for remembrance of Allah, what is conducive to that, those who acquired knowledge, and those who are acquiring it.
-— [Prophet Muhammad (ﷺ)](https://sunnah.com/tirmidhi:2322)
+> _Lo! Indeed the world is cursed. What is in it is cursed, except for remembrance of Allah, what is conducive to that, those who acquired knowledge, and those who are acquiring it._
+>__[Prophet Muhammad (ﷺ)](https://sunnah.com/tirmidhi:2322)__
