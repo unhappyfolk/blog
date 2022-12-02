@@ -1,6 +1,6 @@
 +++
 title = "His Peer, Almighty"
-date = "2022-12-02"
+date = "2022-12-03"
 author = "mhashim6"
 cover = "img/his-peer-almighty.jpg"
 CoverCaption = "Jessica Roux"
