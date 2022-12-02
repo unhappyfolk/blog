@@ -1,6 +1,6 @@
 +++
 title = "ترادف خَلقا، تجلى شأنا."
-date = "2022-12-02"
+date = "2022-12-03"
 author = "يوسف خالد"
 cover = "img/his-peer-almighty.jpg"
 CoverCaption = "Jessica Roux"
