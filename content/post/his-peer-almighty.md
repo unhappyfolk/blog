@@ -11,7 +11,7 @@ Your idol, your mentor. A role model, a professor. Most knowledgeable, one to di
 
 Possesses all control, to cast you away, or lore you before. He keeps the gates of Heavens, and to Hell he leaves the door. A human, yet you make him more.
 
-He lies, he robs. Mountains of sins he holds—a secret to behold. He rapes, he kills. He cares not about his sins. A human, yet you follow him still.
+He lies, he robs. Mountains of sins he holds—a secret to behold. He ravishes, he kills. He cares not about his sins. A human, yet you follow him still.
 
 The middle man, your gateway to Heavens. You shall not pass, unless he lets you in. Never appointed, or of a divine will. Accept him, lest you’re thrown in hell. A human, in the same grave he dwells.
 
