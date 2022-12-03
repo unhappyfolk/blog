@@ -7,9 +7,9 @@ CoverCaption = "Jessica Roux"
 images = ['img/his-peer-almighty.jpg']
 +++
 
-Your idol, your mentor. A role model, a professor.  Most knowledgeable, one to die for. Most righteous, above all soared. A human, yet he is more.
+Your idol, your mentor. A role model, a professor. Most knowledgeable, one to die for. Most righteous, above all soared. A human, yet he is more.
 
-He has all control, to cast you away, or lore you before. He keeps the gates of Heavens, and to Hell he leaves the door. A human, yet you make him more.
+Possesses all control, to cast you away, or lore you before. He keeps the gates of Heavens, and to Hell he leaves the door. A human, yet you make him more.
 
 He lies, he robs. Mountains of sins he holds—a secret to behold. He rapes, he kills. He cares not about his sins. A human, yet you follow him still.
 
