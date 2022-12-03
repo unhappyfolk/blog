@@ -23,3 +23,6 @@ Another, delivers the word. The chosen one, an earthly lord. Speaks the truth, d
 > _They have taken their rabbis and monks as well as the Messiah, son of Mary, as lords besides Allah, even though they were commanded to worship none but One God. There is no god ˹worthy of worship˺ except Him. Glorified is He above what they associate ˹with Him˺!_ \
 > —**[Chapter 9 (Atonement)](https://quran.com/9/31)**
 
+> _"The sun eclipsed in the lifetime of Allah's Messenger (ﷺ) on the day when (his son) Ibrahim died. So the people said that the sun had eclipsed because of the death of Ibrahim. Allah's Messenger (ﷺ) said, 'The sun and the moon do not eclipse because of the death or life (i.e. birth) of someone. When you see the eclipse pray and invoke Allah.'_ \
+> —**[Al-Mughira bin Shu`ba](https://sunnah.com/bukhari:1043)**
+
