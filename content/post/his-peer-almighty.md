@@ -21,5 +21,5 @@ Another, delivers the word. The chosen one, an earthly lord. Speaks the truth, d
 > **[Chapter 18 (The Cave)](https://quran.com/18?startingVerse=110)**
 
 > _They have taken their rabbis and monks as well as the Messiah, son of Mary, as lords besides Allah, even though they were commanded to worship none but One God. There is no god ˹worthy of worship˺ except Him. Glorified is He above what they associate ˹with Him˺!_
-> **[Chapter 9 (Atonement)](https://quran.com/9?startingVerse=31)**
+> **[Chapter 9 (Atonement)](https://quran.com/9/31)**
 
