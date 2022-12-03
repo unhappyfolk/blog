@@ -20,6 +20,6 @@ Another, delivers the word. The chosen one, an earthly lord. Speaks the truth, d
 > _Say, ˹O Prophet,˺ “I am only a man like you, ˹but˺ it has been revealed to me that your God is only One God. So whoever hopes for the meeting with their Lord, let them do good deeds and associate none in the worship of their Lord.”_ \
 > —**[Chapter 18 (The Cave)](https://quran.com/18/110)**
 
-> _They have taken their rabbis and monks as well as the Messiah, son of Mary, as lords besides Allah, even though they were commanded to worship none but One God. There is no god ˹worthy of worship˺ except Him. Glorified is He above what they associate ˹with Him˺!_
-> **[Chapter 9 (Atonement)](https://quran.com/9/31)**
+> _They have taken their rabbis and monks as well as the Messiah, son of Mary, as lords besides Allah, even though they were commanded to worship none but One God. There is no god ˹worthy of worship˺ except Him. Glorified is He above what they associate ˹with Him˺!_ \
+> —**[Chapter 9 (Atonement)](https://quran.com/9/31)**
 
