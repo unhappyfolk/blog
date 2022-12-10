@@ -1,5 +1,6 @@
 baseurl = "https://blog.unhappyfolk.org"
-languageCode = "en-us"
+languageCode = "en"
+defaultContentLanguage = "en"
 theme = "hello-friend"
 paginate = 15
 disableRSS = false
@@ -37,6 +38,8 @@ disableRSS = false
     minuteReadingTime = "min read"
     dateFormatSingle = "2006-01-02"
     dateFormatList = "2006-01-02"
+    contentDir = 'content/en'
+    languageName = 'English'
 
     [languages.en.params.logo]
         logoText = "The Unhappy Folk's Literature"
@@ -83,6 +86,8 @@ disableRSS = false
     readOtherPosts = "اقرأ مقالات أخرى"
     newerPosts = "مقالات أحدث"
     olderPosts = "مقالات أقدم"
+    contentDir = 'content/ar'
+    languageName = 'عربي'
   
     [languages.ar.menu]
       [[languages.ar.menu.main]]
