@@ -35,7 +35,7 @@ Nor **a** god I desire to be
 But you asked what’s power to me  
 And power is not a cloak or three  
 T’s incomprehensible for the likes of me  
-Omnipotence, Singularity, and **The** Divine He  
+Omnipotence, Singularity, **The** Divine He  
 
 > Say: "He is Allah, the One and Only; Allah, the Eternal, Absolute; He begetteth not, nor is He begotten; And there is none like unto Him.” \
 — [Chapter 112 (The Sincerity)](https://quran.com/112)
