@@ -12,7 +12,7 @@ Of hopes and dreams we wished and talked
 _“If given the choice, what would you take for a cloak?_  
 _Immortal, Powerful, Wealthy or High afloat?_  
 _Or Ruling, or cruising the seas is what you sought?”_  
-Asked the friend, on his limp, as we walked  
+Asked the friend, on his limp, as we talked  
 
 Why have one, if I want all?  
 Why do I choose, if I can call  
