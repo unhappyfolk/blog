@@ -34,7 +34,7 @@ __The__ God is the only ruler. His rules no matter how we may perceive are absol
 Right and wrong, defined by __The__ God, are for humans to evaluate human actions against __The__ Godly Law. Not to evaluate the maker of rules. Even if humans tried to judge their Judge, it will not affect Him in any possible way. Such there is the might of __The__ God. No matter how we drown deep in hubris, our fate is sealed. our roles are predefined. our deeds are evaluated. And we’ll be subjected to the consequences of our actions.
 
 > _Allah has never had ˹any˺ offspring, nor is there any god besides Him. Otherwise, each god would have taken away what he created, and they would have tried to dominate one another…_ \
-— __[Chapter 23 (The Believers)](https://quran.com/23/91).__
+— __[Surah 23 (The Believers)](https://quran.com/23/91).__
 
 We may choose to resent this truth, We may choose not to accept it as a truth, but that will only affect our counted breaths on this earth, but won’t change anything for __The__ God. Or for our terminal, eternal, fate.
 

@@ -34,10 +34,10 @@ You wouldn’t believe still, \
 Or follow its starry way
 
 > Nothing keeps Us from sending the ˹demanded˺ signs except that they had ˹already˺ been denied by earlier peoples. And We gave Thamûd the she-camel as a clear sign, but they wrongfully rejected it. We only send the signs as a warning. \
- — [Chapter 17 (The Journey of the Night)](https://quran.com/17/59)
+ — [Surah 17 (The Journey of the Night)](https://quran.com/17/59)
 
 > Those who say, “Allah has commanded us not to believe in any messenger unless he brings us an offering to be consumed by fire ˹from the sky˺.” Say, ˹O Prophet,˺ “Other prophets did in fact come to you before me with clear proofs and ˹even˺ what you demanded—why then did you kill them, if what you say is true?” \
-— [Chapter 3 (The House of Imran)](https://quran.com/3/183)
+— [Surah 3 (The House of Imran)](https://quran.com/3/183)
 
 > Say, ˹O Prophet,˺ “Had there been angels walking the earth, well settled, We would have surely sent down for them an angel from heaven as a messenger.” \
-— [Chapter 17 (The Journey of the Night)](https://quran.com/17/95)
+— [Surah 17 (The Journey of the Night)](https://quran.com/17/95)

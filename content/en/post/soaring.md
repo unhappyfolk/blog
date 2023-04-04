@@ -30,5 +30,5 @@ And it’s not news that no matter how up high you are, there’s always more, t
 As you’re climbing up, glimpsing over the corpses of those who were arguably less unfortunate. You may realize it’s quite stupid. But this very thought means you have to stop soaring to assess that you might have been behaving stupidly yourself. _But Oh would you look at the time! People are already catching up, and it’s quite illogical that I’m being stupid; I’m doing quite well thank you. It’s too late anyway_.
 
 > _“Verily the most honoured of you in the sight of Allah is (he who is) the most righteous of you. And Allah has full knowledge and is well acquainted (with all things).”_ \
-> – __[Chapter 49 (The Chambers)](https://quran.com/49/13)__
+> – __[Surah 49 (The Chambers)](https://quran.com/49/13)__
 

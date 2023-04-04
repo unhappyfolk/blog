@@ -38,4 +38,4 @@ T’s incomprehensible for the likes of me
 Omnipotence, Singularity, **The** Divine He  
 
 > Say: "He is Allah, the One and Only; Allah, the Eternal, Absolute; He begetteth not, nor is He begotten; And there is none like unto Him.” \
-— [Chapter 112 (The Sincerity)](https://quran.com/112)
+— [Surah 112 (The Sincerity)](https://quran.com/112)

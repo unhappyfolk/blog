@@ -32,10 +32,10 @@ And there’s this question that is asked by many: why bother? Many have proven 
 And here, a connection is abruptly brought to mind: It’s never just about satisfaction. There’s also an obligation. We’re here because we’re created. The Creator designed us with needs and their corresponding methods of satisfaction. And tasked us with complete submission and devotion. And this is the only true purpose that should motivate our every action, including satisfying our needs.
 
 > _Say: ‘Truly, my prayer and my service of sacrifice, ___my life___, and ___my death___, are (___all___) for Allah, the Cherisher of the Worlds.’_ \
-— __[Chapter 6 (The Cattle)](https://quran.com/6/162)__
+— __[Surah 6 (The Cattle)](https://quran.com/6/162)__
 
 > ˹Allah speaking˺ I have only ___created___ Jinns and men, that they may serve Me’. \
-— __[Chapter 51 (The Winnowing Winds)](https://quran.com/51/56)__
+— __[Surah 51 (The Winnowing Winds)](https://quran.com/51/56)__
 
 The quality of our work must not be swayed by the type of work we do; if one is ever committed to doing something, it shall be done with utmost precision, sheer effort, and absolute determination. A work done subpar is not considered done; It’s worthless work, a waste of time. Yet this would not be achievable but with proper assessment of one’s capabilities, and assigning work accordingly. 
 

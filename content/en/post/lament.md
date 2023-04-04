@@ -37,7 +37,7 @@ I pray now to die yet never have I been granted \
 And ever-doomed was my gambit
 
 > “Every soul will taste death. And you will only receive your full reward on the Day of Judgment. Whoever is hauled from the Fire and is admitted into Paradise will ˹indeed˺ triumph, whereas the life of this world is no more than the delusion of enjoyment.” \
-> — [Chapter 3 (The House of Imran)](https://quran.com/3/185)
+> — [Surah 3 (The House of Imran)](https://quran.com/3/185)
 
 > “Wise is the one who calls himself to account, and does noble deeds to benefit him after death; and fool is the one who subdues himself to his temptations and desires and seeks from Allah the fulfilment of his vain desires” \
 > — [Prophet Muhammad (ﷺ)](https://sunnah.com/riyadussalihin:66)
