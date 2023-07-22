@@ -15,7 +15,7 @@ O sweet release for me to come \
 Rid my soul off the foul boredom  
 
 The sight of a grave far away \
-Next to it I yearn to lay  
+Down next to it I yearn to lay  
 
 O **Lord** have mercy on a free soul \
 Rendered its years to another's yore  
