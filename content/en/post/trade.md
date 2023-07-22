@@ -12,7 +12,7 @@ If you'd be so kind to trade Death \
 For this life is not worth the breath
 
 O sweet release for me to come \
-Rid my soul off the foul boredom  
+Rid my soul of the foul boredom  
 
 The sight of a grave far away \
 Down next to it I yearn to lay  
