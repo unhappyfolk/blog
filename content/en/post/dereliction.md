@@ -14,9 +14,9 @@ If I don't know the Questions? \
 Yet I seek Redemption \
 *“Righteous, Kind, and Virtuous”* \
 Full of self-conviction \
-*“Pure as the running waters”* \
+*“Pure as the running water”* \
 Drowning in my illusory perfection \
-While deep 'neath the darkness \
+While deep beneath the darkness \
 Sprouts my rotten Dereliction 
 
 
