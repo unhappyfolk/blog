@@ -1,7 +1,7 @@
 +++
 title = "مسك"
 date = "2023-10-28"
-author = "mhashim6"
+author = "هاشم"
 cover = "img/musk.jpg"
 CoverCaption = "Bleeding — Priyanka Tewari"
 images = ['img/musk.jpg']
