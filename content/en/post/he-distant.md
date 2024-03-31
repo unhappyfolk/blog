@@ -26,7 +26,7 @@ How time has left him ridiculed
 By [Tongues of Flames](/post/tongues-of-flame) his worth is fuelled \
 Selflessness is not to act amused \
 But disdain for self and all accused \
-Of righteousness proclaimed and bestowed \
+Of righteousness proclaimed and bestowed
 
  _"__And let none disturb his [Solitude](/post/solitude)!__"_
 
