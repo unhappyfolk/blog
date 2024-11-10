@@ -55,4 +55,4 @@ Bored, yet tirelessly afloat
 
 ---
 > “_I have only created Jinns and men, that they may serve Me._” \
-> — [**Surah 51 (The Winnowing Winds**)](https://quran.com/51/56)
+> — [**Surah 51 (The Winnowing Winds)**](https://quran.com/51/56)
