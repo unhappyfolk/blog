@@ -2,9 +2,9 @@
 title = "Within the Void, wings could grow"
 date = "2024-11-10"
 author = "mhashim6"
-cover = "img/void-wings.jpg"
+cover = "img/void-wings.png"
 CoverCaption = "Void, Wings, mhashim6"
-images = ['img/void-wings.jpg']
+images = ['img/void-wings.png']
 +++
 
 “Flee! In haste you must go \
@@ -55,4 +55,4 @@ Bored, yet tirelessly afloat
 
 ---
 > “_I have only created Jinns and men, that they may serve Me._” \
-> — [**Surah 17 (The Winds**)](https://quran.com/51/56)
+> — [**Surah 51 (The Winnowing Winds**)](https://quran.com/51/56)
