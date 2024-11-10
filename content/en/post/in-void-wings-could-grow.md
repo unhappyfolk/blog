@@ -38,7 +38,7 @@ It’s black, cold, endless, and bleak \
 Or vivid, warm, with a caressing release \
 To Hell or Heaven–is what they plead
 
-Within the Void, wings could grow \
+Within Void, wings could grow \
 The wise fools now–a Murder of Crows \
 Yet in the Void, soaring above all \
 A Hawk liberated, doomed like all
