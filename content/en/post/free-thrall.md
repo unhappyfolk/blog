@@ -47,7 +47,7 @@ Blissed again countless times.
 I shall then submit as I must, \
 Ever grateful—The rule is just, \
 Acknowledged is my weakness, \
-Accounted for is my lust.
+Accounted for is my earthly lust.
 
 A thrall I am, and I volunteer, \
 To serve and obey not only in fear, \
@@ -55,6 +55,6 @@ For I can tolerate what I’ve been tasked, \
 And for Mercy and Forgiveness I can ask.
 
 But if upon myself I can decree, \
-Where the cause is hard, and I’m weak \
+Where the cause is hard, and I’m but a meek \
 I’d rather go back and cease to be, \
 Or stay here—a barren tree.
