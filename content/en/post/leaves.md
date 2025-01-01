@@ -30,7 +30,7 @@ It’s a smoke rose to kill.__
 _“Cursed be thee, treacherous tree! \
 Your shade has poisoned me! \
 I took your fruits and roped your leaves. \
-_I made my deathbed and killed my steed.”
+I made my deathbed and killed my steed.”_
 
 _“Ungrateful Fool, don’t thou blame me! \
 I did thee nothing but good deeds. \
