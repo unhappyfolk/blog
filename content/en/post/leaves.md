@@ -39,8 +39,8 @@ What lies ahead of thee and me?”_
 
 _How darest thou question me? \
 Wherein my good will showers thee. \
-You bathed in the kindness of my sea, \
-And I laid my ignorance upon thee._
+You bathed in the ignorance of my sea, \
+And I laid my kindness upon thee._
 
 _Thy steed shall rot, and thou shall die. \
 My leaves grow higher and more high. \
