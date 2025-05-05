@@ -23,7 +23,7 @@ What horrors can it apprehend?
 How to channel its infinite thought, \
 And not release it from its hell? \
 Admirable and capable ghost \
-A core without a proper shell \
+A core without a proper shell
 
 Its past and stories are not sought \
 Nor what shaped it what’s meant \
