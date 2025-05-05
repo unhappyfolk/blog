@@ -16,7 +16,7 @@ Of the wise fool’s rising aptitude
 Roaming about for lust and food \
 To him the earth beneath subdued \
 By a dream he breathed and was consumed \
-To bond and see his presence approved
+To bond and see his rule approved
 
 He gives but to his own brood \
 And all others are mere crudes \
