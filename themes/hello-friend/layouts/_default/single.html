@@ -77,6 +77,8 @@
         {{/*  Signature End */}}
       </div>
 
+      {{ partial "interpretation.html" . }}
+
     </div>
     {{ if eq .Type $.Site.Params.contentTypeName }}
       {{ if or .NextInSection .PrevInSection }}

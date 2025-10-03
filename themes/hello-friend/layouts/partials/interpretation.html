@@ -1,0 +1,10 @@
+{{ if .Params.interpretation }}
+    <div class="interpretation" style="text-align: left; border: 2px solid rgba(149, 129, 18, 0.287); border-radius: 10px; padding: 15px;">
+        <h3 style="text-align: left;">Possible Interpretation</h3>
+        <div style="text-align: left;">
+            {{ .Params.interpretation | markdownify }}
+        </div>
+        </div>
+    </div>
+
+{{ end }}
