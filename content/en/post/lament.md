@@ -5,6 +5,12 @@ author = "mhashim6"
 cover = "img/lament.jpg"
 CoverCaption = "Liz Neal"
 images = ['img/lament.jpg']
+interpretation = """
+The poem charts a descent from self-assured arrogance into despair. The speaker initially wears pride as protective armour ("form my shell") to conceal inner decay ("what's foul and ill"). The "massive bill" and "mere will" suggest that maintaining this façade requires enormous effort for minimal genuine substance.
+
+The quoted voices represent toxic external validation—society's demand to suppress authentic feeling ("Deny the instinct that you felt!") and to commodify pain into productivity ("Harvest the spark of what's burnt"). The speaker seeks "praise in print", indicating performative existence valued only through public approval.
+
+The "pill of joy" suggests temporary fixes—whether literal medication or metaphorical escapism—that provide fleeting relief before the void returns. By the final stanza, pride has become parasitic, blinding the speaker and leaving them wishing for death yet unable to escape. The "ever-doomed gambit" implies the entire strategy was flawed from inception: pride promised protection but delivered only isolation and spiritual bankruptcy."""
 +++
 
 Pride and arrogance are my traits \

@@ -5,6 +5,12 @@ author = "mhashim6"
 cover = "img/magic_needle.jpg"
 CoverCaption = "Magical Needles — Shumaila Islam"
 images = ['img/magic_needle.jpg']
+interpretation = """
+The narrator orchestrates a dramatic entrapment, voicing humanity's forbidden desires to force self-recognition. By commanding "Grant me what I can't buy," the speaker articulates what the listener secretly craves—transcendence through control rather than surrender. The provocations escalate: scheme against death, challenge whatever gods you've fashioned, treat divinity as an adversary to outwit.
+
+This isn't pastoral guidance but theatrical accusation. The narrator performs humanity's spiritual arrogance as grotesque pantomime, daring the listener to recognise themselves in it. "You lost your way" becomes devastating because the narrator has just walked the listener through every step of that loss, making complicity unavoidable.
+
+The theological argument cuts across traditions: humans perpetually make gods of wealth, ambition, even their own cunning resistance to mortality. The narrator's provocation exposes this pattern not through gentle correction but through aggressive mimicry—speaking the listener's unconscious theology aloud until its absurdity and doom become undeniable. The needle's eye isn't salvation offered but the narrow truth the listener has already rejected by desiring everything the poem mockingly commands."""
 +++
 
 Silence away my cry \

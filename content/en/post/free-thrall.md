@@ -5,6 +5,8 @@ author = "mhashim6"
 cover = "img/free-thrall.png"
 CoverCaption = "Free Thrall, mhashim6"
 images = ['img/free-thrall.png']
+interpretation = """
+This is fundamentally a poem about theodicy—how to reconcile divine benevolence with existential suffering. The speaker embodies the human condition as homo religiosus: bound by cosmic obligation, perpetually failing, yet mysteriously spared. The "barren tree" suggests a life stripped of autonomous flowering, existing solely to fulfil external demands. Yet the poem's deeper question isn't whether to serve, but whether grateful submission can coexist with the wish for non-existence. The answer remains unresolved—the speaker accepts the "just rule" intellectually whilst emotionally yearning for oblivion, capturing the split consciousness of reluctant faith. It's less about finding peace than admitting the impossibility of escape from a contract signed before self-awareness existed."""
 +++
 
 Foolishly and hastily took an oath, \

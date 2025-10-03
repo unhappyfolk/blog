@@ -5,6 +5,10 @@ author = "mhashim6"
 cover = "img/shades_of_decay.webp"
 CoverCaption = "Shades Of Decay, Sharon McDonagh"
 images = ['img/shades_of_decay.jpg']
+interpretation = """
+The narrator wrestles with profound self-ignorance—they cannot interrogate themselves because they lack the framework to even formulate the right questions. External voices (or internalised social expectations) declare them free from guilt and morally upright, which the narrator has absorbed as self-conviction.
+
+Yet the narrator seeks redemption, revealing unconscious awareness that something is amiss. The central irony: they believe themselves pure whilst "drowning" in that very belief, which blinds them to the moral decay ("rotten Dereliction") growing beneath their self-image. The darkness isn't external—it's the unexamined shadow of their presumed virtue. The poem suggests that self-righteousness itself becomes the source of corruption, as it prevents genuine self-knowledge and moral development."""
 +++
 
 

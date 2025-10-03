@@ -5,6 +5,12 @@ author = "mhashim6"
 cover = "img/awry.png"
 CoverCaption = "Awry — mhashim6"
 images = ['img/awry.png']
+interpretation = """
+This is a meditation on collective futility—a group trapped by inertia in a struggle they neither chose nor believe in. The "sad world" and "dying world" establish existential inevitability, yet the community arms itself and waits in trenches for a "tragic victory" (an oxymoron signalling the absurdity of their position). They're fighting entropy itself, "clinging to the falling crag" as everything crumbles.
+
+The scout's report—"It's the wrong way!"—represents ignored truth. They possess the information to escape but remain committed to their "lie," suggesting wilful delusion or institutional paralysis. The death of "one soul" serves as belated catalyst for recognition, though by then it's too late. The piece argues that humans persist in doomed endeavours not from hope but from something more pathological—fear of abandoning sunk costs ("accumulated worth"), tribal commitment, or simple inability to imagine alternatives.
+
+The final image of people "awry" in trenches, praying for death they cannot "buy" (afford? achieve?), suggests that even escape through death is denied them. They're condemned to consciousness of their waste—trapped not just physically but by their own belated awareness."""
 +++
 
 Sad world. We ought not to change that. It was never our fight. So why are we armed to the teeth, hiding in pits behind the barricades anticipating a tragic victory?

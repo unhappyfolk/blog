@@ -5,6 +5,16 @@ author = "mhashim6"
 cover = "img/soul-manifest.jpg"
 CoverCaption = "Soul, Manifest, mhashim6"
 images = ['img/soul-manifest.jpg']
+interpretation = """
+This is humanity's biography as tragic paradox—wise enough to conquer the world, foolish enough to destroy it. 
+
+The opening announces humanity's violent emergence: warfare, conquest, and the "magnitude" of human intelligence. We roam driven by base needs ("lust and food") yet subdue the entire earth through our unique capacity to dream and build civilisations that outlast us—though these very dreams consume us.
+
+The third stanza captures our awakening to existential dread: we're tribal creatures who favour our own whilst dismissing others, and we eventually "brood" over our legacy, realising time mocks all our achievements—mortality makes fools of even the wise.
+
+The final stanza presents a perverse philosophy born of this awareness: humanity mistakes nihilism for virtue. We're fuelled by destruction ("Tongues of Flames"—war, passion, consumption), and we've convinced ourselves that true selflessness isn't compassion but rather contempt for ourselves and universal condemnation—declaring all unrighteous to justify our own failures.
+
+The closing line suggests humanity's ultimate retreat into wilful isolation, demanding to be left alone with our delusions undisturbed."""
 +++
 
 

@@ -5,6 +5,12 @@ author = "mhashim6"
 cover = "img/leaves.jpg"
 CoverCaption = "Black Leaves, mhashim6"
 images = ['img/leaves.jpg']
+interpretation = """
+This is an allegory about the danger of wilful ignorance cloaked in benevolence. The tree represents institutions, ideologies, or individuals who claim moral authority through good intentions whilst remaining deliberately blind to consequences. Its "deep roots" suggest entrenched power; its "shade" the superficial comfort it provides.
+
+The victim initially trusts the tree's offerings, only to discover the shade is poisonous—a metaphor for how seemingly protective systems can harbour hidden harm. The tree's defence ("I can't see / What lies ahead") reveals the poem's central irony: it admits ignorance whilst maintaining innocence, claiming inability to foresee harm as absolution.
+
+The final stanza is most chilling. The tree essentially declares: "My ignorance isn't my fault, and my good intentions absolve me." The victim dies whilst the tree grows "higher," suggesting how power structures perpetuate themselves regardless of the suffering they cause. The tree's last line—"I intend well, and my roots go deep"—encapsulates the poem's warning: deep-rooted power combined with claimed good intentions becomes an excuse for perpetual harm without accountability."""
 +++
 
 __Deep beneath dove the roots, \
@@ -32,17 +38,17 @@ Your shade has poisoned me! \
 I took your fruits and roped your leaves. \
 I made my deathbed and killed my steed.”_
 
-_“Ungrateful Fool, don’t thou blame me! \
+_“Ungrateful Fool, don’t blame me! \
 I did thee nothing but good deeds. \
-What fault to bear if I can’t see \
+What fault to bear if I cannot see \
 What lies ahead of thee and me?”_
 
 _How darest thou question me? \
 Wherein my good will showers thee. \
-You bathed in the ignorance of my sea, \
+Thou bathed in the ignorance of my sea, \
 And I laid my kindness upon thee._
 
-_Thy steed shall rot, and thou shall die. \
+_Thy steed shall rot, and thou shalt die. \
 My leaves grow higher and more high. \
 For I’m ignorant, and thou art like me, \
 But I intend well, and my roots go deep.”_

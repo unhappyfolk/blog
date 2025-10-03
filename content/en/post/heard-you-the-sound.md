@@ -5,6 +5,14 @@ author = "mhashim6"
 cover = "img/the-sign.png"
 CoverCaption = "Show me the Sign — Yousof Khalid"
 images = ['img/the-sign.png']
+interpretation = """
+The poem dramatises the futile cycle of human demands for proof and subsequent rejection of divine signs. The opening destruction and resurrection represent God's demonstrations of power—concrete miracles that should compel belief but are instantly dismissed as "trickery."
+
+The italic sections form humanity's escalating demands: historical references (Joshua's sun, the moon-splitting) establish a pattern of miraculous interventions that were never enough. "*Show me a sign!*" captures the entitled tone—humanity commanding God rather than supplicating. The repetition ("*A thousand miracles more*", "*Another, O Lord, to see!*") emphasises insatiability.
+
+"*It's but foul magic!*" reveals the perpetual goalpost-shifting: when signs are given, they're rationalised away. The rhetorical question "Who brings back the bones" acknowledges God's resurrectory power whilst simultaneously dismissing it—humanity asking questions to which they refuse answers.
+
+The final stanza presents divine resignation: even with unmistakable sensory proof, "You wouldn't believe still." The poem suggests faith's absence isn't an evidence problem but a dispositional one—humanity is "blinded" by choice, rendering the entire cycle of demand and demonstration tragically pointless. God can provide infinite signs to those predetermined to reject them all."""
 +++
 
 The mighty rock was afloat; a mountain, a pillar of earth was swung above its vast shadows. The crushing cloud was dropped. And every thing beneath was no more.
