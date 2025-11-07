@@ -1,10 +1,112 @@
-{{ if .Params.interpretation }}
-    <div class="interpretation" style="text-align: left; border: 2px solid rgba(149, 129, 18, 0.287); border-radius: 10px; padding: 15px;">
-        <h3 style="text-align: left;">Possible Interpretation</h3>
-        <div style="text-align: left;">
-            {{ .Params.interpretation | markdownify }}
-        </div>
-        </div>
+{{ if or .Params.interpretation .Params.interpretationAr }}
+    <div class="interpretation" style="text-align: left; border: 2px solid rgba(149, 129, 18, 0.287); border-radius: 10px; padding: 0; overflow: hidden;">
+        <h3 style="text-align: left; padding: 15px 15px 0 15px; margin-bottom: 0;">Possible Interpretation</h3>
+        
+        {{ if and .Params.interpretation .Params.interpretationAr }}
+            <!-- Language Tabs -->
+            <div class="interpretation-tabs">
+                <button class="interpretation-tab interpretation-tab-active" data-lang="en">
+                    English
+                </button>
+                <button class="interpretation-tab interpretation-tab-inactive" data-lang="ar">
+                    العربية
+                </button>
+            </div>
+            
+            <!-- English Content -->
+            <div class="interpretation-content" data-lang="en" style="text-align: left; padding: 15px;">
+                {{ .Params.interpretation | markdownify }}
+            </div>
+            
+            <!-- Arabic Content -->
+            <div class="interpretation-content" data-lang="ar" style="text-align: right; display: none; direction: rtl; padding: 15px;">
+                {{ .Params.interpretationAr | markdownify }}
+            </div>
+        {{ else if .Params.interpretation }}
+            <!-- English Only -->
+            <div style="text-align: left; padding: 15px;">
+                {{ .Params.interpretation | markdownify }}
+            </div>
+        {{ else }}
+            <!-- Arabic Only -->
+            <div style="text-align: right; direction: rtl; padding: 15px;">
+                {{ .Params.interpretationAr | markdownify }}
+            </div>
+        {{ end }}
     </div>
 
+    {{ if and .Params.interpretation .Params.interpretationAr }}
+    <style>
+        .interpretation-tabs {
+            padding-bottom: 0;
+            margin: 15px auto 0 auto;
+            width: 50%;
+            display: flex;
+            background: rgba(149, 129, 18, 0.05);
+            border-radius: 10px;
+            flex-direction: row;
+            flex-grow: 0;
+        }
+        
+        .interpretation-tab {
+            margin: 0;
+            flex: 1;
+            padding: 12px 20px;
+            cursor: pointer;
+            border: none;
+            font-size: 14px;
+            transition: all 0.3s ease;
+            color: inherit;
+        }
+        
+        .interpretation-tab-active {
+            background: rgba(149, 129, 18, 0.2);
+            font-weight: 800;
+            color: rgba(149, 129, 18, 1);
+            opacity: 1;
+            box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.15);
+            transform: translateY(1px);
+        }
+        
+        .interpretation-tab-inactive {
+            background: transparent;
+            font-weight: 500;
+            opacity: 0.6;
+        }
+        
+        .interpretation-tab:hover {
+            opacity: 1 !important;
+            background: rgba(149, 129, 18, 0.1) !important;
+        }
+    </style>
+    <script>
+        (function() {
+            const tabs = document.querySelectorAll('.interpretation-tab');
+            const contents = document.querySelectorAll('.interpretation-content');
+            
+            tabs.forEach(tab => {
+                tab.addEventListener('click', function() {
+                    const lang = this.getAttribute('data-lang');
+                    
+                    // Update active tab
+                    tabs.forEach(t => {
+                        t.classList.remove('interpretation-tab-active');
+                        t.classList.add('interpretation-tab-inactive');
+                    });
+                    this.classList.remove('interpretation-tab-inactive');
+                    this.classList.add('interpretation-tab-active');
+                    
+                    // Update visible content
+                    contents.forEach(content => {
+                        if (content.getAttribute('data-lang') === lang) {
+                            content.style.display = 'block';
+                        } else {
+                            content.style.display = 'none';
+                        }
+                    });
+                });
+            });
+        })();
+    </script>
+    {{ end }}
 {{ end }}
