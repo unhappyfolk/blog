@@ -6,7 +6,7 @@ cover = "img/soul-manifest.jpg"
 CoverCaption = "Soul, Manifest, mhashim6"
 images = ['img/soul-manifest.jpg']
 interpretation = """
-This is humanity's biography as tragic paradox—wise enough to conquer the world, foolish enough to destroy it. 
+This is humanity's biography as tragic paradox—wise enough to conquer the world, foolish enough to destroy it.
 
 The opening announces humanity's violent emergence: warfare, conquest, and the "magnitude" of human intelligence. We roam driven by base needs ("lust and food") yet subdue the entire earth through our unique capacity to dream and build civilisations that outlast us—though these very dreams consume us.
 
@@ -15,6 +15,17 @@ The third stanza captures our awakening to existential dread: we're tribal creat
 The final stanza presents a perverse philosophy born of this awareness: humanity mistakes nihilism for virtue. We're fuelled by destruction ("Tongues of Flames"—war, passion, consumption), and we've convinced ourselves that true selflessness isn't compassion but rather contempt for ourselves and universal condemnation—declaring all unrighteous to justify our own failures.
 
 The closing line suggests humanity's ultimate retreat into wilful isolation, demanding to be left alone with our delusions undisturbed."""
+
+interpretationAr = """
+هذه سيرة البشرية كمفارقة مأساوية—حكيمة بما يكفي لقهر العالم، حمقاء بما يكفي لتدميره.
+
+يعلن الافتتاح عن ظهور البشرية العنيف: الحرب والغزو و"عظمة" الذكاء البشري. نتجول مدفوعين بالحاجات الأساسية ("الشهوة والطعام") لكننا نخضع الأرض بأكملها من خلال قدرتنا الفريدة على الحلم وبناء حضارات تعيش أطول منا—رغم أن هذه الأحلام ذاتها تستهلكنا.
+
+يلتقط المقطع الثالث صحوتنا على الرهبة الوجودية: نحن مخلوقات قبلية نفضل أبناءنا بينما نستبعد الآخرين، ونتأمل في النهاية إرثنا، مدركين أن الزمن يسخر من كل إنجازاتنا—الموت يجعل حتى الحكماء حمقى.
+
+يقدم المقطع الأخير فلسفة منحرفة وُلدت من هذا الوعي: تخطئ البشرية العدمية للفضيلة. نحن مدفوعون بالدمار ("ألسنة اللهب"—الحرب، الشغف، الاستهلاك)، وأقنعنا أنفسنا بأن الإيثار الحقيقي ليس الرحمة بل احتقار الذات والإدانة الشاملة—إعلان الجميع غير أبرار لتبرير إخفاقاتنا.
+
+السطر الختامي يوحي بانسحاب البشرية النهائي إلى العزلة المتعمدة، مطالبة بأن تُترك وحدها مع أوهامها دون إزعاج."""
 +++
 
 

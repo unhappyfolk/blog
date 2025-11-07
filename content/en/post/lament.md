@@ -11,6 +11,14 @@ The poem charts a descent from self-assured arrogance into despair. The speaker 
 The quoted voices represent toxic external validation—society's demand to suppress authentic feeling ("Deny the instinct that you felt!") and to commodify pain into productivity ("Harvest the spark of what's burnt"). The speaker seeks "praise in print", indicating performative existence valued only through public approval.
 
 The "pill of joy" suggests temporary fixes—whether literal medication or metaphorical escapism—that provide fleeting relief before the void returns. By the final stanza, pride has become parasitic, blinding the speaker and leaving them wishing for death yet unable to escape. The "ever-doomed gambit" implies the entire strategy was flawed from inception: pride promised protection but delivered only isolation and spiritual bankruptcy."""
+
+interpretationAr = """
+ترسم القصيدة مساراً هابطاً من الغرور الواثق بنفسه إلى اليأس. يرتدي المرء في البداية الكبرياء كدرع واقٍ ("تشكل قوقعتي") ليخفي الانحلال الداخلي ("ما هو فاسد وعليل"). تشير "الفاتورة الضخمة" و"الإرادة المحضة" إلى أن الحفاظ على هذا القناع يتطلب جهداً هائلاً مقابل جوهر حقيقي ضئيل.
+
+تمثل الأصوات المقتبسة التصديق الخارجي السام—مطالبة المجتمع بقمع المشاعر الأصيلة ("أنكر الغريزة التي شعرت بها!") وتحويل الألم إلى إنتاجية ("احصد شرارة ما احترق"). يبحث المرء عن "ثناء مطبوع"، مما يشير إلى وجود استعراضي لا قيمة له إلا من خلال الموافقة العامة.
+
+تشير "حبة الفرح" إلى حلول مؤقتة—سواء كانت دواءً حرفياً أو هروباً مجازياً—توفر راحة عابرة قبل أن يعود الفراغ. في المقطع الأخير، أصبح الكبرياء طفيلياً، يعمي المرء ويتركه يتمنى الموت لكنه عاجز عن الهرب. تشير "المقامرة الملعونة أبداً" إلى أن الاستراتيجية بأكملها كانت معيبة منذ البداية: وعد الكبرياء بالحماية لكنه لم يقدم سوى العزلة والإفلاس الروحي."""
+
 +++
 
 Pride and arrogance are my traits \

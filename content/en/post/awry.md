@@ -11,6 +11,13 @@ This is a meditation on collective futility—a group trapped by inertia in a st
 The scout's report—"It's the wrong way!"—represents ignored truth. They possess the information to escape but remain committed to their "lie," suggesting wilful delusion or institutional paralysis. The death of "one soul" serves as belated catalyst for recognition, though by then it's too late. The piece argues that humans persist in doomed endeavours not from hope but from something more pathological—fear of abandoning sunk costs ("accumulated worth"), tribal commitment, or simple inability to imagine alternatives.
 
 The final image of people "awry" in trenches, praying for death they cannot "buy" (afford? achieve?), suggests that even escape through death is denied them. They're condemned to consciousness of their waste—trapped not just physically but by their own belated awareness."""
+
+interpretationAr = """
+هذا تأمل في العبثية الجماعية—مجموعة محاصرة بالجمود في نضال لم يختاروه ولا يؤمنون به. يؤسس "العالم الحزين" و"العالم المحتضر" حتمية وجودية، ومع ذلك يسلح المجتمع نفسه وينتظر في الخنادق "انتصاراً مأساوياً" (تناقض يشير إلى سخافة موقفهم). إنهم يقاتلون الانهيار ذاته، "متشبثين بالصخرة الساقطة" بينما ينهار كل شيء.
+
+يمثل تقرير الكشاف—"إنه الطريق الخطأ!"—الحقيقة المتجاهلة. يمتلكون المعلومات للهروب لكنهم يظلون ملتزمين "بكذبتهم"، مما يوحي بوهم متعمد أو شلل مؤسسي. يعمل موت "روح واحدة" كمحفز متأخر للإدراك، لكن الوقت قد فات. تحاجج القطعة بأن البشر يثابرون في مساعٍ محكوم عليها بالفشل ليس من الأمل بل من شيء أكثر مرضية—الخوف من التخلي عن التكاليف الغارقة ("القيمة المتراكمة")، أو الالتزام القبلي، أو ببساطة عدم القدرة على تخيل بدائل.
+
+الصورة الأخيرة للناس "معوجين" في الخنادق، يصلون من أجل الموت الذي لا يستطيعون "شراءه" (تحمل تكلفته؟ تحقيقه؟)، توحي بأن حتى الهروب عبر الموت محروم منهم. إنهم محكوم عليهم بالوعي بهدرهم—محاصرون ليس جسدياً فقط بل بإدراكهم المتأخر."""
 +++
 
 Sad world. We ought not to change that. It was never our fight. So why are we armed to the teeth, hiding in pits behind the barricades anticipating a tragic victory?

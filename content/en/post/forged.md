@@ -11,6 +11,13 @@ The narrator orchestrates a dramatic entrapment, voicing humanity's forbidden de
 This isn't pastoral guidance but theatrical accusation. The narrator performs humanity's spiritual arrogance as grotesque pantomime, daring the listener to recognise themselves in it. "You lost your way" becomes devastating because the narrator has just walked the listener through every step of that loss, making complicity unavoidable.
 
 The theological argument cuts across traditions: humans perpetually make gods of wealth, ambition, even their own cunning resistance to mortality. The narrator's provocation exposes this pattern not through gentle correction but through aggressive mimicry—speaking the listener's unconscious theology aloud until its absurdity and doom become undeniable. The needle's eye isn't salvation offered but the narrow truth the listener has already rejected by desiring everything the poem mockingly commands."""
+
+interpretationAr = """
+ينظم الراوي فخاً درامياً، معبراً عن رغبات البشرية المحرمة لإجبارها على إدراك الذات. بأمره "امنحني ما لا أستطيع شراءه"، يصيغ المتكلم ما يتوق إليه المستمع سراً—التسامي من خلال السيطرة بدلاً من الاستسلام. تتصاعد الاستفزازات: تآمر ضد الموت، تحدَ أي آلهة صنعتها، عامل الألوهية كخصم لتفوقه.
+
+هذا ليس إرشاداً رعوياً بل اتهاماً مسرحياً. يؤدي الراوي غطرسة البشرية الروحية كتمثيل استعراضي صامت مشوه، متحدياً المستمع لإدراك نفسه فيه. "لقد ضللت طريقك" يصبح مدمراً لأن الراوي قد سار بالمستمع للتو عبر كل خطوة من تلك الخسارة، مما يجعل التواطؤ لا مفر منه.
+
+تقطع الحجة اللاهوتية عبر التقاليد: البشر يصنعون باستمرار آلهة من الثروة والطموح، حتى مقاومتهم الماكرة للموت. يكشف استفزاز الراوي عن هذا النمط ليس من خلال التصحيح اللطيف بل من خلال المحاكاة العدوانية—التحدث بلاهوت المستمع اللاواعي بصوت عالٍ حتى تصبح سخافته وهلاكه لا يمكن إنكارهما. عين الإبرة ليست خلاصاً مُقدّماً بل الحقيقة الضيقة التي رفضها المستمع بالفعل بتوقه لكل ما تأمر به القصيدة بسخرية."""
 +++
 
 Silence away my cry \

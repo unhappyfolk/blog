@@ -11,6 +11,13 @@ This is an allegory about the danger of wilful ignorance cloaked in benevolence.
 The victim initially trusts the tree's offerings, only to discover the shade is poisonous—a metaphor for how seemingly protective systems can harbour hidden harm. The tree's defence ("I can't see / What lies ahead") reveals the poem's central irony: it admits ignorance whilst maintaining innocence, claiming inability to foresee harm as absolution.
 
 The final stanza is most chilling. The tree essentially declares: "My ignorance isn't my fault, and my good intentions absolve me." The victim dies whilst the tree grows "higher," suggesting how power structures perpetuate themselves regardless of the suffering they cause. The tree's last line—"I intend well, and my roots go deep"—encapsulates the poem's warning: deep-rooted power combined with claimed good intentions becomes an excuse for perpetual harm without accountability."""
+
+interpretationAr = """
+هذه استعارة عن خطر الجهل المتعمد المتستر بالإحسان. تمثل الشجرة المؤسسات أو الأيديولوجيات أو الأفراد الذين يدعون السلطة الأخلاقية من خلال النوايا الحسنة بينما يظلون عميان عمداً عن العواقب. تشير "جذورها العميقة" إلى السلطة الراسخة؛ و"ظلها" إلى الراحة السطحية التي توفرها.
+
+يثق الضحية في البداية بعطايا الشجرة، ليكتشف فقط أن الظل سام—استعارة لكيفية إخفاء الأنظمة الظاهرة الحماية للأذى الخفي. يكشف دفاع الشجرة ("لا أستطيع أن أرى / ما ينتظرنا") عن المفارقة المركزية للقصيدة: تعترف بالجهل مع الحفاظ على البراءة، مدعية أن عدم القدرة على توقع الضرر هو مغفرة.
+
+المقطع الأخير هو الأكثر رعباً. تعلن الشجرة في الأساس: "جهلي ليس خطئي، ونواياي الحسنة تبرئني." يموت الضحية بينما تنمو الشجرة "أعلى"، مما يوحي بكيفية استمرار هياكل السلطة بغض النظر عن المعاناة التي تسببها. السطر الأخير للشجرة—"أنا أنوي الخير، وجذوري عميقة"—يلخص تحذير القصيدة: السلطة الراسخة مقترنة بالنوايا الحسنة المزعومة تصبح عذراً للضرر الدائم دون مساءلة."""
 +++
 
 __Deep beneath dove the roots, \

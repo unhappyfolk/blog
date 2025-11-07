@@ -13,6 +13,15 @@ The italic sections form humanity's escalating demands: historical references (J
 "*It's but foul magic!*" reveals the perpetual goalpost-shifting: when signs are given, they're rationalised away. The rhetorical question "Who brings back the bones" acknowledges God's resurrectory power whilst simultaneously dismissing it—humanity asking questions to which they refuse answers.
 
 The final stanza presents divine resignation: even with unmistakable sensory proof, "You wouldn't believe still." The poem suggests faith's absence isn't an evidence problem but a dispositional one—humanity is "blinded" by choice, rendering the entire cycle of demand and demonstration tragically pointless. God can provide infinite signs to those predetermined to reject them all."""
+
+interpretationAr = """
+تُمسرح القصيدة الدورة العبثية لمطالب البشر بالدليل ورفضهم اللاحق للآيات الإلهية. يمثل الدمار والبعث الافتتاحيان مظاهر قدرة الله—معجزات ملموسة يجب أن تجبر على الإيمان لكنها تُرفض فوراً باعتبارها "خدعة."
+
+تشكل الأقسام المائلة مطالب البشرية المتصاعدة: الإشارات التاريخية (شمس يوشع، انشقاق القمر) تؤسس نمطاً من التدخلات المعجزة التي لم تكن كافية أبداً. "*أرني آية!*" تلتقط النبرة المتعالية—البشرية تأمر الله بدلاً من التضرع. يؤكد التكرار ("*ألف معجزة أخرى*"، "*أخرى يا رب، لأرى!*") على النهم الذي لا يُشبع.
+
+يكشف "*إنها سحر خبيث!*" عن التنقل الدائم بين المعايير: عندما تُعطى الآيات، يتم تبريرها بعيداً. السؤال البلاغي "من يعيد العظام" يعترف بقدرة الله على البعث بينما يرفضها في الوقت نفسه—البشرية تطرح أسئلة ترفض إجاباتها.
+
+يقدم المقطع الأخير استسلاماً إلهياً: حتى مع الدليل الحسي الذي لا لبس فيه، "لن تؤمن رغم ذلك." توحي القصيدة بأن غياب الإيمان ليس مشكلة دليل بل مشكلة مزاجية—البشرية "معماة" بالاختيار، مما يجعل دورة المطالبة والإظهار بأكملها عبثية بشكل مأساوي. يمكن لله أن يقدم آيات لا نهائية لأولئك المُقرّرين مسبقاً رفضها جميعاً."""
 +++
 
 The mighty rock was afloat; a mountain, a pillar of earth was swung above its vast shadows. The crushing cloud was dropped. And every thing beneath was no more.

@@ -15,6 +15,17 @@ Two readings exist, but one carries greater weight: whilst we might witness a cu
 The narrator admits the wraith is "admirable and capable" yet maintains its captivity. This contradiction exposes the cruel logic of prejudice: we may recognise worth in the Other whilst still denying them personhood or liberty. The wraith's plea - "Take me out of the bottomless bleak" - becomes a haunting indictment of our complicity in another's suffering, justified by fears we've never truly examined.
 
 The poem ultimately questions whether the real danger lies with the imprisoned or with those who, claiming righteousness, choose containment over understanding."""
+
+interpretationAr = """
+تستكشف هذه القصيدة عدم اليقين الأساسي الذي نواجهه عند مواجهة المجهول، لكنها تميل نحو استنتاج مقلق: أن الخوف غالباً ما يعمينا عن الحقيقة ويديم الظلم.
+
+يتحدث الشبح بوضوح عن رغبته في المساعدة والتواصل، لكن الراوي يتفاعل برعب حشوي—ليس لأي فعل قام به الشبح، بل لصوته ومظهره. قد يكشف الوصف "ضجيج كريه" و"صرخة ملعونة فظيعة" عن تحيز الراوي أكثر من طبيعة الشبح. نُحث على "إغلاق آذاننا" قبل الاستماع حقاً، "إغلاق البوابات" قبل السماح بالفهم الحقيقي.
+
+توجد قراءتان، لكن إحداهما تحمل وزناً أكبر: بينما قد نشهد محتالاً ماكراً، من الأرجح أننا نراقب كائناً بريئاً يعاني من حبس ظالم بينما يمنع خوف الراوي التحرير. تتعمق المأساة عندما نلاحظ أن الشبح قد اعتُبر مفيداً ("دعونا نبحث ونجد شيئاً نافعاً") لكنه يبقى مسجوناً—مما يوحي بالاستغلال دون رحمة، استعداد لاستخراج القيمة مع رفض الحرية والكرامة.
+
+يعترف الراوي بأن الشبح "جدير بالإعجاب وقادر" لكنه يحافظ على أسره. يكشف هذا التناقض المنطق القاسي للتحيز: قد ندرك القيمة في الآخر بينما ننكر عنه الشخصية أو الحرية. يصبح توسل الشبح—"أخرجني من القاع الكئيب"—إدانة مؤرقة لتواطؤنا في معاناة آخر، مبررة بمخاوف لم نفحصها حقاً.
+
+تتساءل القصيدة في النهاية عما إذا كان الخطر الحقيقي يكمن مع المسجون أو مع أولئك الذين، مدعين البر، يختارون الاحتواء على الفهم."""
 +++
 
 Vast, hollow labyrinth \

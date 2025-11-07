@@ -7,6 +7,9 @@ CoverCaption = "Free Thrall, mhashim6"
 images = ['img/free-thrall.png']
 interpretation = """
 This is fundamentally a poem about theodicy—how to reconcile divine benevolence with existential suffering. The speaker embodies the human condition as homo religiosus: bound by cosmic obligation, perpetually failing, yet mysteriously spared. The "barren tree" suggests a life stripped of autonomous flowering, existing solely to fulfil external demands. Yet the poem's deeper question isn't whether to serve, but whether grateful submission can coexist with the wish for non-existence. The answer remains unresolved—the speaker accepts the "just rule" intellectually whilst emotionally yearning for oblivion, capturing the split consciousness of reluctant faith. It's less about finding peace than admitting the impossibility of escape from a contract signed before self-awareness existed."""
+
+interpretationAr = """
+هذه قصيدة أساساً عن التيوديسيا—كيفية التوفيق بين الإحسان الإلهي والمعاناة الوجودية. يجسد المتكلم الحالة البشرية كإنسان متدين: مقيد بالتزام كوني، يفشل باستمرار، لكنه يُنجى بشكل غامض. تشير "الشجرة القاحلة" إلى حياة مجردة من الإزهار المستقل، موجودة فقط لتسكن. لكن السؤال الأعمق للقصيدة ليس ما إذا كان يجب الخدمة، بل ما إذا كان الخضوع الممتن يمكن أن يتعايش مع الرغبة في عدم الوجود. تبقى الإجابة غير محسومة—يقبل المتكلم "الحكم العادل" فكرياً بينما يتوق عاطفياً للنسيان، ملتقطاً الوعي المنقسم للإيمان المتردد. الأمر أقل عن إيجاد السلام من الاعتراف باستحالة الهروب من عقد وُقّع قبل وجود الوعي الذاتي."""
 +++
 
 Foolishly and hastily took an oath, \

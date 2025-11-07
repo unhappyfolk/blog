@@ -9,6 +9,11 @@ interpretation = """
 The narrator wrestles with profound self-ignorance—they cannot interrogate themselves because they lack the framework to even formulate the right questions. External voices (or internalised social expectations) declare them free from guilt and morally upright, which the narrator has absorbed as self-conviction.
 
 Yet the narrator seeks redemption, revealing unconscious awareness that something is amiss. The central irony: they believe themselves pure whilst "drowning" in that very belief, which blinds them to the moral decay ("rotten Dereliction") growing beneath their self-image. The darkness isn't external—it's the unexamined shadow of their presumed virtue. The poem suggests that self-righteousness itself becomes the source of corruption, as it prevents genuine self-knowledge and moral development."""
+
+interpretationAr = """
+يصارع الانسان جهلاً عميقاً بالذات—لا يستطيع استجواب نفسه لأنه يفتقر إلى الإطار حتى لصياغة الأسئلة الصحيحة. تعلن الأصوات الخارجية (أو التوقعات الاجتماعية المستوعبة) أنه خالٍ من الذنب ومستقيم أخلاقياً، وهو ما استوعبه الراوي كإدانة ذاتية.
+
+ومع ذلك يسعى الراوي للخلاص، كاشفاً عن وعي لاواعٍ بأن شيئاً ما خطأ. المفارقة المركزية: يعتقد نفسه نقياً بينما "يغرق" في ذلك الاعتقاد نفسه، الذي يعميه عن التحلل الأخلاقي ("الإهمال الفاسد") الذي ينمو تحت صورته الذاتية. الظلام ليس خارجياً—إنه الظل غير المفحوص لفضيلته المفترضة. توحي القصيدة بأن البر الذاتي نفسه يصبح مصدر الفساد، إذ يمنع معرفة الذات الحقيقية والنمو الأخلاقي."""
 +++
 
 
