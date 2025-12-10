@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Offline | The Unhappy Folk's Literature</title>
+  <style>
+    :root {
+      --background: #1d1e20;
+      --foreground: #eaeaea;
+      --accent: #d4af37;
+    }
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      background-color: var(--background);
+      color: var(--foreground);
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+      padding: 2rem;
+      text-align: center;
+    }
+
+    .container {
+      max-width: 600px;
+    }
+
+    h1 {
+      font-size: 2rem;
+      margin-bottom: 1rem;
+      color: var(--accent);
+    }
+
+    p {
+      font-size: 1.1rem;
+      line-height: 1.6;
+      margin-bottom: 1.5rem;
+      opacity: 0.9;
+    }
+
+    .arabic {
+      direction: rtl;
+      font-size: 1.2rem;
+      border-top: 1px solid rgba(212, 175, 55, 0.3);
+      padding-top: 2rem;
+      margin-top: 2rem;
+    }
+
+    .arabic h2 {
+      color: var(--accent);
+      margin-bottom: 1rem;
+    }
+
+    .retry-btn {
+      display: inline-block;
+      margin-top: 1.5rem;
+      padding: 0.75rem 2rem;
+      background: transparent;
+      color: var(--accent);
+      border: 2px solid var(--accent);
+      border-radius: 4px;
+      font-size: 1rem;
+      cursor: pointer;
+      text-decoration: none;
+      transition: all 0.2s ease;
+    }
+
+    .retry-btn:hover {
+      background: var(--accent);
+      color: var(--background);
+    }
+
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>You're Offline</h1>
+    <p>
+      This page hasn't been cached yet. Please check your internet connection and try again.
+      Pages you've visited before are available offline.
+    </p>
+
+    <button class="retry-btn" onclick="window.location.reload()">Try Again</button>
+
+    <div class="arabic">
+      <h2>&#x0623;&#x0646;&#x062A; &#x063A;&#x064A;&#x0631; &#x0645;&#x062A;&#x0635;&#x0644;</h2>
+      <p>
+        &#x0647;&#x0630;&#x0647; &#x0627;&#x0644;&#x0635;&#x0641;&#x062D;&#x0629; &#x0644;&#x0645; &#x064A;&#x062A;&#x0645; &#x062D;&#x0641;&#x0638;&#x0647;&#x0627; &#x0628;&#x0639;&#x062F;.
+        &#x064A;&#x0631;&#x062C;&#x0649; &#x0627;&#x0644;&#x062A;&#x062D;&#x0642;&#x0642; &#x0645;&#x0646; &#x0627;&#x062A;&#x0635;&#x0627;&#x0644;&#x0643; &#x0628;&#x0627;&#x0644;&#x0625;&#x0646;&#x062A;&#x0631;&#x0646;&#x062A;.
+        &#x0627;&#x0644;&#x0635;&#x0641;&#x062D;&#x0627;&#x062A; &#x0627;&#x0644;&#x062A;&#x064A; &#x0632;&#x0631;&#x062A;&#x0647;&#x0627; &#x0645;&#x0646; &#x0642;&#x0628;&#x0644; &#x0645;&#x062A;&#x0627;&#x062D;&#x0629; &#x0628;&#x062F;&#x0648;&#x0646; &#x0627;&#x062A;&#x0635;&#x0627;&#x0644;.
+      </p>
+    </div>
+  </div>
+</body>
+</html>

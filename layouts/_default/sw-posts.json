@@ -1,0 +1,9 @@
+{{- $.Scratch.Set "posts" slice -}}
+{{- range $sitePages := $.Site.Sites -}}
+  {{- range $sitePages.RegularPages -}}
+    {{- if eq .Section "post" -}}
+      {{- $.Scratch.Add "posts" .RelPermalink -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- $.Scratch.Get "posts" | jsonify -}}

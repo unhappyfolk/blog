@@ -14,4 +14,19 @@
 <script src="{{ "assets/main.js" | absURL }}"></script>
 <script src="{{ "assets/prism.js" | absURL }}"></script>
 
+<script>
+  // Register Service Worker for offline support
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', () => {
+      navigator.serviceWorker.register('/sw.js')
+        .then((registration) => {
+          console.log('SW registered:', registration.scope);
+        })
+        .catch((error) => {
+          console.log('SW registration failed:', error);
+        });
+    });
+  }
+</script>
+
 {{- partial "extended_footer.html" . }}

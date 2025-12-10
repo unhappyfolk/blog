@@ -99,5 +99,5 @@ To modify theme styles or templates:
 
 ## Notes
 - The interpretation partial is a custom feature specific to this blog
-- Posts often include Islamic scripture quotes and philosophical themes
+- Posts often include theological scripture quotes and philosophical themes
 - Arabic content uses RTL layout automatically via theme configuration
