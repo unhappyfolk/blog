@@ -1,7 +1,7 @@
 // Service Worker for The Unhappy Folk's Literature Blog
 // Provides offline support with tiered caching strategies
 
-const CACHE_VERSION = 'v1';
+const CACHE_VERSION = 'v2';
 const STATIC_CACHE = `static-${CACHE_VERSION}`;
 const PAGES_CACHE = `pages-${CACHE_VERSION}`;
 const IMAGES_CACHE = `images-${CACHE_VERSION}`;
@@ -18,15 +18,28 @@ const PRECACHE_ASSETS = [
   '/manifest.json'
 ];
 
-// Install event - pre-cache app shell
+// Install event - pre-cache app shell and all posts
 self.addEventListener('install', (event) => {
   event.waitUntil(
-    caches.open(STATIC_CACHE)
-      .then((cache) => {
+    Promise.all([
+      // Cache static assets
+      caches.open(STATIC_CACHE).then((cache) => {
         console.log('[SW] Pre-caching app shell');
         return cache.addAll(PRECACHE_ASSETS);
-      })
-      .then(() => self.skipWaiting())
+      }),
+      // Fetch and cache all blog posts
+      fetch('/sw-posts/index.json')
+        .then((response) => response.json())
+        .then((posts) => {
+          console.log('[SW] Pre-caching', posts.length, 'posts');
+          return caches.open(PAGES_CACHE).then((cache) => {
+            return cache.addAll(posts);
+          });
+        })
+        .catch((error) => {
+          console.log('[SW] Could not pre-cache posts:', error);
+        })
+    ]).then(() => self.skipWaiting())
   );
 });
 
