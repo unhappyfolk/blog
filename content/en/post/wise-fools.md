@@ -47,7 +47,7 @@ In his prison \
 Teach us the wisdom you’ve pooled \
 In your prism \
 And let not what you drool \
-Disturb our rhythm
+Disrupt our rhythm
 
 Friends! How amusing are those folk \
 The wretched wise fools \
