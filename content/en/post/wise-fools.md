@@ -3,7 +3,7 @@ title = "Wise Fools"
 date = "2026-11-13"
 author = "mhashim6"
 cover = "img/wise-fools.jpg"
-CoverCaption = "The Jester"
+CoverCaption = "Jester, Stablo"
 images = ['img/wise-fools.jpg']
 interpretation = """
 This poem is about how we treat those who tell us the truth, and it holds back its real accusation until the end.
